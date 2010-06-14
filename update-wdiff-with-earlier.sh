@@ -1,5 +1,9 @@
 #!/bin/bash
 
+PASTES=$(dirname $0);
+
+cd ${PASTES}
+
 if [ "$#" -eq 0 ]; then
     # HEAD^1 might be a change that didn't affect the file current-paste
     LAST=$(git whatchanged -n 2 --pretty=oneline current-paste | grep -v 'current-paste *$'| cut -d' ' -f1 | tail -n 1)

@@ -124,11 +124,11 @@ M Personinformasjoner.
 
 S Persondiehtu lea diehtu mii guoská ovttaskasolbmui.
 R En personopplysning er en opplysning som kan knyttes til en enkelt person.
-M Person informasjon det er informasjon som #komme til ensligmennesket.
+M Person informasjon det er informasjon som berører til ensligmennesket.
 
 S Dat mearkkaša ovdamearkka dihtii ahte namma, ahki, čujuhus ja telefonnummir leat persondieđut, jus dat gusket dušše dutnje.
 R Det betyr at for eksempel navn, alder, adresse og telefonnummer er personopplysninger hvis de kan knyttes kun til deg.
-M Det #bemerke for eksempelet at navnet, alderen, adressen og telefonnummeret er personinformasjoner, hvis de #komme bare til deg.
+M Det #bemerke for eksempelet at navnet, alderen, adressen og telefonnummeret er personinformasjoner, hvis de berører bare til deg.
 
 S Govat mas dovddat olbmuid, leat maiddái persondieđut, vaikko vel govas ii čuoččoge namma.
 R Bilder hvor du kan kjenne igjen personen er også en personopplysning, selv om det ikke står et navn ved bildet.
@@ -228,7 +228,7 @@ M #Innhente opplysninger jentas penge herje.
 
 S Eadneolmmoš dadjá iežas bidjat nieidda lubmaruđaid kontui mas lea báŋkokoarta dan sadjái go addit sutnje ruđaid gihtii. 
 R En mor forteller at hun setter datterens lommepenger inn på en konto med bankkort i stedet for å gi henne kontanter. 
-M Mormennesket sier at det skulle sette jentas #lomme penger *kontui hvor det er et bankkort @sadjái det når vi gir penger til ham til #hand. 
+M Mormennesket sier det å sette jentas #lomme penger *kontui hvor det er et bankkort @sadjái det når vi gir penger til ham til #hand. 
 
 S Son iská nieidda kontodieđuid jeavddalaččat neahttabáŋkkus, ja son dieinna lágiin álo diehtá gos ja goas nieida lea geavahan lubmaruđaid.
 R Hun gjennomgår datterens kontooversikt på nettbanken regelmessig, og har dermed full kontroll med hvor og når datteren har brukt lommepengene.
@@ -316,11 +316,11 @@ M @8  og  @18 mellom ungdommene er 98 prosents datamaskin hjemme.
 
 S 26 % proseantta sis geavahit Interneahta almmuhit govaid ja dieđuid.
 R 26 prosent av disse bruker Internett til å legge ut bilder og informasjon.
-M @26 % #prosent på dem bruker de at Internettet skulle publisere bilder og informasjoner.
+M @26 % #prosent på dem bruker de Internettet å publisere bilder og informasjoner.
 
 S Deháleamos sivva manne nuorat eai hálit bidjat dieđuid iežaset birra Internehttii, lea go ballet amas olbmuid váldimis oktavuođa singuin.
 R Den viktigste grunnen ungdom oppgir til at de ikke vil legge ut informasjon om seg selv på Internett, er frykt for å bli kontaktet av noen de ikke kjenner.
-M Den Viktigste grunnen drog ungdommer vil ikke sette informasjoner om seg Til internettet, det er når de frykter @amas mennesker å ta kontakt med dem.
+M Den Viktigste grunnen drog ungdommer vil ikke sette informasjoner om seg Til internettet, det er når de frykter fremmede mennesker å ta kontakt med dem.
 
 S 38 proseantta ovdalis namahuvvon nuorain leat vásihan ahte amas olbmot Interneahtas leat jearran sis gova, telefovdnanummira, čujuhusa dahje sullasaččaid.
 R 38 prosent i denne gruppen har opplevd at ukjente på Internett har bedt dem om bilde,  telefonnummer, adresse eller lignende.
@@ -356,7 +356,7 @@ M Se informasjonene om deg på nettet – #du *profiilasiiddus eller hjemme side
 
 S - Sáhtátgo geavahit daid gávdnat eanet dieđuid iežat birra? Geavat ohcanbálvalusa, telefonkatalogen.no, 1881 dahje sullasaččaid.
 R - Kan du bruke dette til å finne enda mer informasjon om deg selv? Bruk en søkemotor, telefonkatalogen.no, 1881 eller lignende.
-M - Kan du bruke at de skulle finne #mer informasjoner om deg? Bruk søknadtjenesten, *telefonkatalogen.nå, 1881 eller *sullasaččaid.
+M - Kan du bruke de å finne #mer informasjoner om deg? Bruk søknadtjenesten, *telefonkatalogen.nå, 1881 eller *sullasaččaid.
 
 S Ovttastahtte áinnas máŋga dieđu (namma+jahki, nicka+skuvla jna.).
 R Kombiner gjerne flere opplysninger (navn + år, nick + skole osv).
@@ -588,7 +588,7 @@ M Til regjeringen *molsašumiin er På kongen en stor merknad. Han gir vanlig de
 
 S Gonagas ja Dronnet mannaba olgoriikkaide stáhtaguossástallamiidda, ja leaba vuostáiváldit go olgoriikkaid stáhtaoaivámuččat bohtet guossin min riikii. Lea Gonagas gii vuostáiváldá amas riikkaid ambassadevrraid Oslos go sii bohtet buktit iežaset dovddusindahkanreivviid. Dat dáhpáhuvvá allaáiggalaš audienssas Šloahtas.
 R Kongen og Dronningen avlegger statsbesøk i utlandet og er vert når utenlandske statsoverhoder kommer på besøk til vårt land. Det er kongen som tar i mot fremmede lands ambassadører i Oslo når de skal avlevere sine akkreditivbrev. Dette skjer under en høytidelig audiens på Slottet.
-M Kongen og dronningen drar *olgoriikkaide *stáhtaguossástallamiidda, og er *vuostáiváldit når *olgoriikkaid statoverhodene kommer som gjest til vårt rike. Er Kongen som *vuostáiváldá @amas riker *ambassadevrraid i Oslo når de kommer å bringe seg *dovddusindahkanreivviid. Det hender *allaáiggalaš *audienssas På slottet.
+M Kongen og dronningen drar *olgoriikkaide *stáhtaguossástallamiidda, og er *vuostáiváldit når *olgoriikkaid statoverhodene kommer som gjest til vårt rike. Er Kongen som *vuostáiváldá fremmede riker *ambassadevrraid i Oslo når de kommer å bringe seg *dovddusindahkanreivviid. Det hender *allaáiggalaš *audienssas På slottet.
 
 S Gonagasas lea Generála dássi Suodjalusas ja Áibmosuodjalusas, ja son lea Mearrasuodjalusas Admirála, ja lea riika bajemus befálaolmmái.
 R Han har rang av General i Hæren og Luftforsvaret, og Admiral i Sjøforsvaret, og er landets øverste befalingsmann.
@@ -872,7 +872,7 @@ M Jeg vel *jahkan at enda *govdnojit grunnene, hvorfor Finland *iehcanasvuoda *a
 
 S Muhto maid gavdnojit sivat, manin Suoma iehcanasvuoda avvudeamit gusket muhtun eara olbmuid.
 R Men det finnes også grunner til at finske feiringer av uavhengighet berører mange andre mennesker.
-M Men også *gavdnojit grunnene, hvorfor til Finland *iehcanasvuoda *avvudeamit #komme noen *eara til menneskene.
+M Men også *gavdnojit grunnene, hvorfor til Finland *iehcanasvuoda *avvudeamit berører noen *eara til menneskene.
 
 S Norga.no birra
 R Om Norge.no
@@ -900,7 +900,7 @@ M Norge.nå er en offentlig tjeneste hvor er *internettportála *www.*norge.nå 
 
 S Norga.no sáhttá du veahkehit dieđuiguin almmolaš ásahusaid, lágaid, njuolggadusaid, geatnegasvuođaid ja vuoigatvuođaid birra. Jus oktavuođaváldin guoská áinnaskasáššiide dahje lágaid dulkomii, veahkehit mii du gávdnat rievttes almmolaš kantuvrra.
 R Norge.no kan hjelpe deg med opplysninger om offentlige virksomheter, lover, regler, plikter og rettigheter. Gjelder henvendelsen enkeltsaker eller tolkning av lover, hjelper vi deg med å finne fram til rett offentlig kontor.
-M Norge.nå kan han hjelpe deg med informasjoner til de offentlige ordningene, til lovene, til reglene, til pliktene og rettighetene om. Hvis som kontakt#pågriper #komme *áinnaskasáššiide eller til lovenes tolking, hjelper vi at du skulle finne riktige det offentlige kontoret.
+M Norge.nå kan han hjelpe deg med informasjoner til de offentlige ordningene, til lovene, til reglene, til pliktene og rettighetene om. Hvis som kontakt#pågriper berører *áinnaskasáššiide eller til lovenes tolking, hjelper vi du å finne riktige det offentlige kontoret.
 
 S Don sáhtát váldit oktavuođa Norga.no’in anonymalaccat.
 R Du kan kontakte Norge.no anonymt. 
@@ -1300,7 +1300,7 @@ M Åpnet *olgoritpolitihkalaš seminaret.
 
 S Dan maŋŋá rabai Gonagas Harald almmolaččat seminára ”States in Fragile Environments” Pretoria universitehtas. Okta váldoságastalliin dán semináras lei olgoritministtar Jonas Gahr Støre. Son čalmmustahtii dan makkár hástalusat rašes stáhtat leat ráfi ja sihkarvuođa ovddidanbargguin Afriikkas. Guovddážis beaivvi prográmmas ledje hástalusat mat gusket huksemii ja vearjjuid geahpedeapmái – ja de earenoamážit antipersonellmiinnat ja klasevearjjut. Rahpansártnistis deattuhii Gonagas Harald earet eará Norgga ja Lulli-Afrihkká buori ovttasbarggu áššiin mat gusket antipersonellmiinnaid gieldimii:
 R Senere foretok Kong Harald den offisielle åpningen av seminaret ”States in Fragile Environments” ved Universitetet i Pretoria. Utenriksminister Jonas Gahr Støre var blant hovedtalerne på seminaret, som fokuserte på utfordringene sårbare stater representerer for fred og sikkerhet i Afrika. Utfordringer knyttet til gjenoppbygging og nedrustning – og da særlig arbeidet mot antipersonellminer og klasevåpen, sto sentralt på agendaen.
-M etter Det åpnet han Kong Harald offentlig seminaret ”*States ikke *Fragile *Environments” *Pretoria på universitetet. Et #hoved på de som #snakke på dette seminaret var *olgoritministtar Jon #Gahr #Støre. Han #fokusere #det hvilken utfordrings de #veik statene er freden og *sihkarvuođa å fremme på arbeidene *Afriikkas. På sentret en dag på programmet var utfordringer som #komme byggende og til våpnenes lette – og så *earenoamážit *antipersonellmiinnat og *klasevearjjut. Åpnende på #preken det #betone Kong Harald unntatt #den andre Norge og *Lulli bra samarbeidet med en sak som #komme *antipersonellmiinnaid forbyende:
+M etter Det åpnet han Kong Harald offentlig seminaret ”*States ikke *Fragile *Environments” *Pretoria på universitetet. Et #hoved på de som #snakke på dette seminaret var *olgoritministtar Jon #Gahr #Støre. Han #fokusere #det hvilken utfordrings de #veik statene er freden og *sihkarvuođa å fremme på arbeidene *Afriikkas. På sentret en dag på programmet var utfordringer som berører byggende og til våpnenes lette – og så *earenoamážit *antipersonellmiinnat og *klasevearjjut. Åpnende på #preken det #betone Kong Harald unntatt #den andre Norge og *Lulli bra samarbeidet med en sak som berører *antipersonellmiinnaid forbyende:
 
 S - With the strong political support of our respective governments and the efforts of dedicated individuals, both countries contributed significantly to achieving this important treaty. Today this successful cooperation is being further developed in a closely linked process, working towards an international ban on cluster munitions. They are another form of silent and indiscriminate killers that affect civilians in particular.
 R I åpningstalen sin, understreket Kong Harald blant annet det gode samarbeidet mellom Sør-Afrika og Norge rundt avtalen som forbyr bruken av antipersonellminer:
@@ -2156,7 +2156,7 @@ M Krigårene 1940-1945
 
 S Duiska soahteveahka fallehii Norgga cuoŋománu 9. beaivvi iđit 1940. Duiska okkupašuvdnafápmu geahččalii oažžut vuollásis Gonagasa ja Ráđđehusa, ja nu bágget Norgga vuollánit, muhto sihke Gonagasbearaš, Ráđđehus ja eanas stuoradiggeáirasat besse Oslos báhtarussii ovdalgo duiskalaččat bohte gávpogii
 R Tyske tropper angrep Norge morgenen 9. april 1940. Den tyske okkupasjonsmakten forsøkte å sikre seg Konge og Regjering for å tvinge Norge til å overgi seg, men både Kongefamilien, Regjeringen og de fleste av stortingsrepresentantene kom seg ut av Oslo før tyskerne rykket inn i byen.
-M Tyske krigenes styrken angrep Norge 9. april til morgenen 1940. En Tysk okkupasjonmakt prøvde å få til den som spikker Kongen og regjeringen, og slik tvinger vi at Norge skulle resignere, men både Kongefamilien, Regjeringen  og  #de fleste #stor #ting representanter de fikk i Oslo *báhtarussii før *duiskalaččat kom til byen
+M Tyske krigenes styrken angrep Norge 9. april til morgenen 1940. En Tysk okkupasjonmakt prøvde å få til den som spikker Kongen og regjeringen, og slik tvinger vi Norge å resignere, men både Kongefamilien, Regjeringen  og  #de fleste #stor #ting representanter de fikk i Oslo *báhtarussii før *duiskalaččat kom til byen
 
 S Falleheapmi.
 R Angrepet.
@@ -2168,7 +2168,7 @@ M 9. april en natt var 1940 *soahtafanas *Blücher på farten til Oslos fjord ti
 
 S Muhto riddosuodjalus fuomášii dáid duiska soahtefatnasiid Færder buohta, ja maŋŋil Bolærne buohta. Diehtu amas soahtefatnasiid birra sáddejuvvui Oscarsborg ladnái, man sajádat lei hui vuohkkasit, dakko gokko Oslovuotna lea seakkimus. Go duiska soahtefatnasat jovde Drøbaksundii, gohčui Oscarsborgga kommandánta, oberst Birger Eriksen, fallehit. Moses” ja ”Aron” kanuvnnat deive Blüchera, ja dakka maŋŋil bombejuvvui dát soahtefanas maiddái Nordre Kaholmen torpedovearjjuiguin. Diibmu 06:22 vuojui Blücher, ja eanas oassi soahtefatnasa veagas, mas ledje badjel 1300 olbmá, dušše.
 R De tyske skipene ble oppdaget av kystforsvaret ved Færder og senere ved Bolærne fort. Meldinger om fremmede krigsskip ble sendt til Oscarsborg festning, strategisk plassert der Oslofjorden er på sitt smaleste. Da de tyske skipene kom inn i Drøbaksundet, beordret kommandanten på Oscarsborg, oberst Birger Eriksen, angrep. Blücher ble truffet av skyts fra kanonene ”Moses” og ”Aron”, og senere av torpedoer fra Nordre Kaholmen. Klokken 06:22 sank Blücher, og hoveddelen av mannskapet på over 1300 mann, omkom.
-M Men kystbeskyttelsen oppdaget denne tyske krigen båter overfor #Færder, og etterpå *Bolærne overfor. Informasjon om de @amas krigbåtene #sende *Oscarsborg *ladnái, som *sajádat var svært #høvelig, der hvor er Oslos fjord tynnest. Når de tyske krigbåtene #nå fram *Drøbaksundii, bad *Oscarsborgga *kommandánta, *oberst #Birger Eriksen, å angripe. #Moses og Aron” *kanuvnnat traff *Blüchera, og *dakka etterpå *bombejuvvui denne krigbåten også *Nordre *Kaholmen *torpedovearjjuiguin. En Time @0622 #synke *Blücher, og #de fleste del krigbåten på styrken, hvor de var over 1300 mennene, bare.
+M Men kystbeskyttelsen oppdaget denne tyske krigen båter overfor #Færder, og etterpå *Bolærne overfor. Informasjon om de fremmede krigbåtene #sende *Oscarsborg *ladnái, som *sajádat var svært #høvelig, der hvor er Oslos fjord tynnest. Når de tyske krigbåtene #ankomme *Drøbaksundii, bad *Oscarsborgga *kommandánta, *oberst #Birger Eriksen, å angripe. #Moses og Aron” *kanuvnnat traff *Blüchera, og *dakka etterpå *bombejuvvui denne krigbåten også *Nordre *Kaholmen *torpedovearjjuiguin. En Time @0622 #synke *Blücher, og #de fleste del krigbåten på styrken, hvor de var over 1300 mennene, bare.
 
 S Blücher vuodjun bissehii gaskaboddosaččat duiska soahteveaga lahkoneami Osloi. Ja de oaččui ge Gonagasbearaš, Ráđđehus ja stuora oassi Stuoradikkis dan áiggi maid dárbbašedje báhtarit sihkarvuhtii.
 R Senkingen av Blücher stanset midlertidig den tyske framrykkingen mot Oslo. Dermed fikk Kongefamilien, Regjeringen og store deler av Stortinget tiden de trengte til å komme seg i sikkerhet.
@@ -2212,7 +2212,7 @@ M i Norge prøvde den tyske okkupasjonmakten, som den som leder var *Riikakommis
 
 S Čakčamánu 25. beaivvi loahpahuvvo viimmat buot áigumušat ahte ásahit riikaráđi. Terboven buvttii cealkámuša ahte Gonagas ja Ráđđehus leat biddjojuvvon eret ja ahte buot eará bellodagat go Nasjonal samling ledje lobiheamit. Buot doaibma mii guoskkai Gonagasvissui, gildojuvvui. Gonagas Haakon ja eksilráđđehus vástidedje ahte sii áigo ain joatkit soahtat dassážii Norga šattai fas friddjan.
 R 25. september brøt forsøkene på å etablere et riksråd endelig sammen. Terboven erklærte Konge og Regjering for avsatt og forbød alle andre politiske partier enn Nasjonal samling. All virksomhet til fordel for Kongehuset var nå forbudt. Kong Haakon og eksilregjeringen svarte at de ville fortsette kampen til Norge var fritt.
-M 25. september #avrunde *viimmat alle viljer at de ordner rikerådet. *Terboven brakte uttalelsen at Kongen og regjeringen har satt fra og at all andre parti når *Nasjonal *samling var ulovlige. All oppgave som #komme Til kongehuset, han ble forbudt. Kong Haakon og *eksilráđđehus svarte at de skulle enda #skjøte å kjempe *dassážii Norge ble igjen fri.
+M 25. september #avrunde *viimmat alle viljer at de ordner rikerådet. *Terboven brakte uttalelsen at Kongen og regjeringen har satt fra og at all andre parti når *Nasjonal *samling var ulovlige. All oppgave som berørte Til kongehuset, han ble forbudt. Kong Haakon og *eksilráđđehus svarte at de skulle enda #skjøte å kjempe *dassážii Norge ble igjen fri.
 
 S Geassemánu 30. beaivvi 1944 nammadii Ráđđehus Londonis Ruvdnaprinssa Olav suodjalushoavdan. Son válddii badjelasas norgga soahteveagaid jođiheami ja ovttasbarggu alliánsariikkaiguin.
 R 30. juni 1944 utnevnte Regjeringen i London Kronprins Olav til forsvarssjef. Han overtok ledelsen av de norske styrkene og samarbeidet med de allierte.

@@ -8,7 +8,7 @@ PASTES=$(cd $(dirname $0) && pwd)
 
 
 cd ${WER} 
-make -j2 && sh make-paste.sh > ${PASTES}/current-paste
+make *.MT -j2 && sh make-paste.sh > ${PASTES}/current-paste
 if [ $? -eq 0 ]; then
     cd ${PASTES}
     GIT_PAGER='' git diff --color-words current-paste

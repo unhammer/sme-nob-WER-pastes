@@ -32,7 +32,7 @@ M Og hvis *jo vil da inn, så de får de banker på døren først.
 
 S Iežat lanjas leat don gii mearridat.
 R På ditt rom er det du som bestemmer.
-M På ditt rom er du som du bestemmer.
+M I ditt rom er du som du bestemmer.
 
 S Mis lea buohkain juoga maid eat hálit earáide muitalit.
 R Vi har alle noe vi ikke ønsker å dele med andre.
@@ -60,11 +60,11 @@ M De er ikke på så mange som legekontoret *vuostáiváldimis, hvor full *sáhk
 
 S Eai leat gallisge geat sáddejit álásgovaid alddis MMS bokte, ja daguhit iežas ovdii ahte viđa sekundda maŋŋá sáhttet sihke irgi/moarsi, oahpaheaddjit ja váhnemat daid jo ožžon.
 R Få vil spre nakenbilder av seg selv på MMS, og risikere at de fem sekunder senere har nådd både kjæreste, lærere og foreldre.
-M De er ikke hvor mange også som sender *álásgovaid selv *MMS vekket, og de overdrar for #seg at fem *sekundda etter de kan både kjæresten/kjæresten, lærere og foreldre dem *jo fått.
+M De er ikke @gallis også som sender *álásgovaid selv *MMS vekket, og de overdrar for #seg at fem *sekundda etter de kan både kjæresten/kjæresten, lærere og foreldre dem *jo fått.
 
 S Ii oktage liiko ahte earát snugget nuppiid priváhta áššiid, ležžet dal dat idjabeavdelođás dahje dihtoris.  	 
 R Ingen liker at andre snoker i deres private saker, enten det er i nattbordskuffen eller på PC-en.  	 
-M Han ikke en også liker at andre snuser de andre private sakene, de er da nå de i nattbordskuffen eller datamaskinen.  	 
+M Han ikke en også liker at andre snuser andre private saker, de er da nå de i nattbordskuffen eller datamaskinen.  	 
 
 S Du ráját.
 R Dine grenser.
@@ -120,11 +120,11 @@ M er Lovens mål å beskytte dine personinformasjoner på de brukes dets *láhka
 
 S Persondieđut.
 R Personopplysning.
-M Person informasjoner.
+M Personinformasjoner.
 
 S Persondiehtu lea diehtu mii guoská ovttaskasolbmui.
 R En personopplysning er en opplysning som kan knyttes til en enkelt person.
-M Person informasjon er informasjon som berører ensligmennesket.
+M Personinformasjon er informasjon som berører ensligmennesket.
 
 S Dat mearkkaša ovdamearkka dihtii ahte namma, ahki, čujuhus ja telefonnummir leat persondieđut, jus dat gusket dušše dutnje.
 R Det betyr at for eksempel navn, alder, adresse og telefonnummer er personopplysninger hvis de kan knyttes kun til deg.
@@ -152,7 +152,7 @@ M Andre har ikke med retten tillatelsen bruke dine personinformasjoner, hvis du 
 
 S Galggat eaktodáhtolaččat mieđihan dasa ja aktiivvalaččat addán dieđuid, ja sáhtát goas beare geassit dan ruovttoluotta.
 R Samtykket skal være frivillig og gitt aktivt, og du kan når som helst trekke det tilbake.
-M Du skal det frivilligere bifalle til det og aktivt gitt informasjoner, og du kan når familiesykdommen drar vi den tilbakeveien.
+M Du skal det frivilligere bifalle til det og aktivt gitt informasjoner, og du kan når de @bearri drar vi den tilbakeveien.
 
 S Dát lea váldonjuolggadus, muhto gávdnojit spiehkasteamit.
 R Dette er hovedregelen, men det finnes unntak.
@@ -200,7 +200,7 @@ M Far overvåker.
 
 S Nuppelotjahkásaš nieida manai čuoiganlupmui iežas ustibiiguin, okto váhnemiid haga. 
 R Ei tenåringsjente dro på skiferie med venner, alene uten foreldre. 
-M *Nuppelotjahkásaš jenta drog på skirennferien med sine venner, alene uten foreldrene. 
+M *Nuppelotjahkásaš jenta drog gående på ski på ferien med sine venner, alene uten foreldrene. 
 
 S Muhto man okto lei son? 
 R Men hvor alene var hun? 
@@ -212,7 +212,7 @@ M Far bestilte og holdt *Trygghetsmobilen-*nammasaš håndtelefontjenesten *mobi
 
 S Son roahkkadit dárkkistii, ja nieidda mielas lei dat ortnegis, vaikko ii orron liikomin dasa ahte áhčči beassá su guorrat goas beare.
 R Han så ingen betenkeligheter ved denne kontrollen, og datteren ga uttrykk for at det var greit, selv om hun var litt skeptisk til at faren kunne spore henne til enhver tid. 
-M Hun kontrollerte freidig, og i jentas oppfatning var det det på #skipan, selv om hun ikke bodde i gang med å like det at far får spore ham når familiesykdommen.
+M Hun kontrollerte freidig, og i jentas oppfatning var det det på #skipan, selv om hun ikke bodde i gang med å like det at far får spore ham når de @bearri.
 
 S Mánáidáittardeaddji Reidar Hjermann maiddái ii orron liikomin dasa ja dajai ahte “servodat gos váhnemat geažos áigge sáhttet diđoštit gos sin mánát leat, čielgasit loavkašuhttá mánáid priváhtaeallima”.
 R Barneombud Reidar Hjermann var meget skeptisk, og uttalte at ”Et system der foreldre til enhver tid kan kontrollere hvor barna deres befinner seg, er en soleklar krenkelse av barnets privatliv”.
@@ -260,7 +260,7 @@ M - Er det på #skipan at de to drar til din datamaskin å undersøke på hvilke
 
 S Man boaris berret leat ovdalgo váhnenguovttos eaba sáhte šat gáibidit oaidnit buot maid barggat?
 R Hvor gammel bør du være før foreldrene dine ikke lenger kan kreve innsyn i alt du gjør?
-M Hva gammel de innkrever være hvor før ikke *váhnenguovttos kan mer kreve å se alt som du arbeider?
+M Hva gammel de innkrever være før *váhnenguovttos ikke kan mer kreve å se alt som du arbeider?
 
 S - Berre go leat iešguđet rádjá bajábealde namuhuvvon ovdamearkkaide. Jus nu, makkár?
 R - Bør det være ulike grenser for eksemplene nevnt ovenfor? I så fall hvilke?
@@ -276,7 +276,7 @@ M  Se til det som er privat, og til det som han duger det offentlige å vise, de
 
 S - Oza tv:s, Interneahtas, aviissain ja bláđiin ovdamearkkaid dilálašvuođain maid don it jáhke livčče čájehuvvon 20 jagi dás ovdal go dalle atnui dát priváhta áššin.
 R - Finn eksempler på situasjoner som vises på TV, Internett, aviser og blader som du tror ikke kunne vært vist for 20 år siden, fordi det den gang ble sett på som privat.
-M - Let *tv:s, På internettet, på avisene og bladene eksempler på anledningene som du tror ikke de kan være vist 20 år her før da til bruken disse som privat sak.
+M - Let *tv:s, På internettet, på avisene og bladene eksempler på anledningene som du tror ikke det kan være vist 20 år her før da til bruken disse som privat sak.
 
 S Čájet mo ráját leat sirdašuvvan.
 R Vis hvordan grensene har flyttet seg.
@@ -292,7 +292,7 @@ M Informasjoner *boasttugeavaheapmi.
 
 S Persondieđut leat dat dieđut levvet jođánepmosit Interneahtas.
 R Personopplysninger er en av de datatypene som vokser raskest på Internett.
-M Person informasjoner være de informasjonene de brer seg hurtigst På internettet.
+M Personinformasjoner være de informasjonene de brer seg hurtigst På internettet.
 
 S Eanaš nuorat almmuhit dieđuid ja govaid sihke alddiset ja earáin ruovttusiidduide ja neahttaservodagaide.
 R De fleste unge legger ut informasjon og bilder både av seg selv og andre på hjemmesider og nettsamfunn.
@@ -304,7 +304,7 @@ M Finnes @máŋga den offentlige personkunnskapsbasen, for eksempelet skattelist
 
 S Seammás šaddet reaiddut maiguin sáhttá ohcat ja ovttastahttit dieđuid Interneahtas, buoret ja buoret.
 R Samtidig blir verktøyene for å søke frem og kombinere informasjon på Internett stadig bedre.
-M #Sammes-en blir *reaiddut som han kan lete og forene informasjoner På internettet, bedre og bedre.
+M *Seammás *reaiddut som han kan lete og forene informasjoner På internettet, bedre og bedre.
 
 S Dihtetgo ahte?
 R Visste du at?
@@ -316,7 +316,7 @@ M 8 og *18mellom ungdommene er 98 prosents datamaskin hjemme.
 
 S 26 % proseantta sis geavahit Interneahta almmuhit govaid ja dieđuid.
 R 26 prosent av disse bruker Internett til å legge ut bilder og informasjon.
-M 26 % prosenter på dem bruker de Internettet å publisere bilder og informasjoner.
+M 26 % prosenter på dem de bruker Internettet å publisere bilder og informasjoner.
 
 S Deháleamos sivva manne nuorat eai hálit bidjat dieđuid iežaset birra Internehttii, lea go ballet amas olbmuid váldimis oktavuođa singuin.
 R Den viktigste grunnen ungdom oppgir til at de ikke vil legge ut informasjon om seg selv på Internett, er frykt for å bli kontaktet av noen de ikke kjenner.
@@ -336,7 +336,7 @@ M Som du tror?
 
 S Mo sáhtát suddjet iežat nu ahte earát eai boastut geavat dieđuid du birra?
 R Hvordan kan du verne deg mot at andre misbruker opplysninger om deg?
-M du kan #Mo beskytte deg selv slik at andre ikke galt bruker informasjoner om deg?
+M Hvordan du kan beskytte deg selv slik at andre ikke galt bruker informasjoner om deg?
 
 S - Maid don sáhtát dahkat garvin dihtii unohas/váralaš diliid?
 R - Hva kan du gjøre for å unngå ubehagelige/farlige situasjoner?
@@ -356,7 +356,7 @@ M Se informasjonene om deg på nettet – på din profilside eller hjemmeside.
 
 S - Sáhtátgo geavahit daid gávdnat eanet dieđuid iežat birra? Geavat ohcanbálvalusa, telefonkatalogen.no, 1881 dahje sullasaččaid.
 R - Kan du bruke dette til å finne enda mer informasjon om deg selv? Bruk en søkemotor, telefonkatalogen.no, 1881 eller lignende.
-M - Kan du bruke de å finne mer informasjoner om deg? Bruk søknadstjenesten, *telefonkatalogen.nå, 1881 eller *sullasaččaid.
+M - Kan du bruke de å finne mer informasjoner om deg?  Bruk letende tjenesten, *telefonkatalogen.nå, 1881 eller *sullasaččaid.
 
 S Ovttastahtte áinnas máŋga dieđu (namma+jahki, nicka+skuvla jna.).
 R Kombiner gjerne flere opplysninger (navn + år, nick + skole osv).
@@ -380,7 +380,7 @@ M  Husk! Du er @dat som om jeg leser.
 
 S Sáhttet leat olusat geain lea beroštupmi; olbmot du lagašbirrasis, boahttevaš bargoaddit, gávppálaš beroštumit ja vearredahkkit.
 R Det finnes mange som kan være interesserte; personer i din nærhet, fremtidige arbeidsgivere, kommersielle interesser og kriminelle.
-M De kan være mange som det har en omsorg; folk på ditt nærmiljø, kommende arbeidsgir, kommersielle omsorger og urettgjør.
+M De kan være mange som det er en omsorg; folk på ditt nærmiljø, kommende arbeidsgir, kommersielle omsorger og urettgjør.
 
 S - Makkár oainnu oažžu son guhte čohkke buot dieđuid du birra neahtas?
 R - Hvilket inntrykk får den som samler all informasjon som finnes om deg på nettet?
@@ -388,11 +388,11 @@ M - Han får hvilket syn han som samler alle informasjoner deg omkring nettet?
 
 S Go geavahat ohcanbálvalusa, de dat registrere guđe dihtora geavahat (IP-čujuhusa). 
 R Når du bruker en søkemotor, registrerer den hvilken datamaskin som brukes (IP-adresse).
-M Når vi bruker søknadstjenesten, så det registrerer som vi bruker datamaskinen (*IPadressen). 
+M Når vi bruker letende tjenesten, så det registrerer som vi bruker datamaskinen (*IPadressen). 
 
 S - Iskka vurkego Google dahje eará ohcanbálvalus ohcansániid, ja man guhká daid vurke.
 R - Kan du finne ut om søkeordene lagres av Google eller andre søkemotorer, og hvor lenge de lagres?
-M -  Undersøk oppbevarer han Googles eller #annen søknads#tjeneste søkeord, og hva lenge han oppbevarer dem.
+M -  Undersøk oppbevarer Google eller #annen letende tjenesten søkeord, og hva lenge han oppbevarer dem.
 
 S - Masa sáhttá dáid dieđuid geavahit?
 R - Hva kan denne informasjonen brukes til?
@@ -404,7 +404,7 @@ M En postmann.
 
 S Dát lea okta 6 filmmas mat ráhkaduvvojedje maŋŋá manusgilvvu joatkkaskuvlla ohppiid várás.
 R Dette er en av 6 filmer som ble laget etter en manuskonkurranse for elever i videregående skole.
-M Denne er en 6 filmen som ble lagd etter *manusgilvvu for videregående skolens elever.
+M Denne er en 6 filmen som de ble lagd etter *manusgilvvu for videregående skolens elever.
 
 S Filmma leat Noroff mediegymnas oahppit Fredrikstadas ráhkadan.
 R Filmen er laget av elever ved Noroff mediegymnas i Fredrikstad.
@@ -416,11 +416,11 @@ M En mann på veigrøftens gate.
 
 S Dát lea okta 6 filmmas mat ráhkaduvvojedje maŋŋá manusgilvvu joatkkaskuvlla ohppiid várás.
 R Dette er en av 6 filmer som ble laget etter en manuskonkurranse for elever i videregående skole.
-M Denne er en 6 filmen som ble lagd etter *manusgilvvu for videregående skolens elever.
+M Denne er en 6 filmen som de ble lagd etter *manusgilvvu for videregående skolens elever.
 
 S Filmma leat Mo ja Jølster joatkkaskuvlla oahppit ráhkadan.
 R Filmen er laget av elever ved Mo og Jølster vgs.
-M De har filmen #Mo og Jølsters #videregående skole elever lagd.
+M De har filmen Mo og Jølsters #videregående skole elever lagd.
 
 S Ođđa Davvikalohtta EO-prográmma
 R Nytt EU-program på Nordkalotten
@@ -452,7 +452,7 @@ M Sametinget i Kiruna han koordinerer det nye MÅLETS 3 NORDENES – SAMELAND �
 
 S Ovddasvástideaddji lea Ella-Britt Utsi Jannok. 
 R Kontaktperson er Ella-Britt Utsi Jannok. 
-M Ansvarshavenden er Ellas Britt Utsi Jannok. 
+M Ansvarshavenden er Ella Britt Utsi Jannok. 
 
 S Searvevuođačoahkkimat dollojuvvojit Roavvenjárggas 31.08.2006 ja Gironis 05.09.2006, ja buot berošteaddjit Davvi-Norggas leat buresboahtin.  
 R Det blir arrangert partnerskapsmøter både i Rovaniemi 31.8.2006 og i Kiruna 5. september 2006, og aktører fra Nord-Norge er velkomne.
@@ -468,7 +468,7 @@ M *Čuovvovoaš visjonen er foreslått:
 
 S «Rádjerasttildeaddji ovttasbargu ovdánahttá guovllu vejolašvuođaidguovlun davvin». 
 R «Gjennom grenseregionalt samarbeid utvikles regionen til mulighetenes region i nord».
-M «Grensekryssende samarbeidet utvikler området som muligområde som nord». 
+M «Grensekryssende samarbeidet utvikler området som mulighetområde som nord». 
 
 S Vejolaš doaibmasuorggit:
 R Innsatsområdene kan bli som følger:
@@ -476,7 +476,7 @@ M De mulige oppgaveforgreiningene:
 
 S    1. Ealáhusovdánahttin ja ođasmahttin (fitnodagat ja gelbbolašvuođaásahusat)
 R    1. Næringsutvikling og innovasjon (for bedrifter og kompetansemiljøer)
-M    1. Næringsutviklende og oppdaterende (firmaene og dugeligeordningene)
+M    1. Næringsutviklende og oppdaterende (firmaene og kompetanseordningene)
 
 S    2. Dutkan ja ovdánahttin (universitehtat, FOU biras  ja almmolaš ásahusat)
 R    2. Forskning og utvikling (universiteter, FOU miljøer og off. sektor)
@@ -492,7 +492,7 @@ M Han har ikke enda bestemt hvordan #side nordmannen finansierer de programmet o
 
 S Lea almmatge čielggas ahte Länsstyrelsen Luleå:s galgá ovddasvástidit ođđa prográmma koordinerema ja praktihkalaš hálddašeami.
 R Det er derimot avklart at Länsstyrelsen i Luleå kommer til å ha ansvar for koordingering og praktisk foraltning av det nye programmet.
-M Det er likevel klar at *Länsstyrelsen Luleå:s skal ha ansvar for det nye programmets koordinerende og den praktiske forvaltningen.
+M Det er likevel klar at *Länsstyrelsen Luleåss skal ha ansvar for det nye programmets koordinerende og den praktiske forvaltningen.
 
 S Buohkat geat hálidit buktit árvalusaid Ulbmil 3 Davvi – Sápmi 2007-2010 prográmmii, leat bures boahtin Gironii!
 R Aktører som er interessert i å gi innspill til Mål 3 Nord - SAPMI 2007-2010, er velkomne til møtet i Kiruna!
@@ -508,11 +508,11 @@ M Majestetens Kong
 
 S Harald V – Norgga Gonagas – riegádii guovvamánu 21. beaivvi 1937 Skaugumis Askeris. Son lea Gonagas Olav V (1903-1991) ja Ruvdnaprinseassa Märtha (1901-1954) bárdni. Go Gonagas Olav V jámii ođđajagimánu 17. beaivvi 1991, šattai Ruvdnaprinsa Harald gonagas.
 R Harald V - Norges Konge - ble født 21. februar 1937 på Skaugum i Asker. Han er sønn av Kong Olav V (1903-1991) og Kronprinsesse Märtha (1901-1954). Da Kong Olav V døde 17. januar 1991, overtok Kronprins Harald som konge.
-M Harald @V – En @norga Konge – ble født 21. februar 1937 i Skaugum i Asker. Han er Kong Olav V. (1903-1991) og Kronprinsesse Märtha (1901-1954) en gutt. Da Kong Olav V. hun døde 17. januar 1991, hun ble Kronprins Harald konge.
+M Harald #Valphabet – En @norga Konge – ble født 21. februar 1937 i Skaugum i Asker. Han er Kong Olav V. (1903-1991) og Kronprinsesse Märtha (1901-1954) en gutt. Da Kong Olav V. hun døde 17. januar 1991, hun ble Kronprins Harald konge.
 
 S Gonagas Harald lea vuosttaš norggasriegádan prinsa 567 jahkái. Dalá Ruvdnaprinsabáras ledje ovdalaččas guokte nieidda, Prinseassa Ragnhild ja Prinseassa Astrid, muhto ii goappásge sudnos lean 1814 Vuođđolága mielde árbenriekti truvdnui. Go Prinsa Harald riegádii, de lei truvdnui sihkkarastojuvvon árbbolaš. Maŋŋel go Vuođđoláhka rievdaduvvui 1990:s, de lea dál boarraseamos mánás árbenriekti truvdnui, beroškeahttá das lea go nieida vai bárdni, muhto álgonjuolggadussan mearriduvvui ahte dievdu manná ovddabeallái nissonolbmo sin gaskkas geat leat riegádan ovdal 1990.
 R Kong Harald var den første norskfødte prins på 567 år. Det daværende Kronprinsparet hadde fra før to døtre, Prinsesse Ragnhild og Prinsesse Astrid, men ingen av disse var arveberettigede til tronen etter Grunnloven av 1814. Ved Prins Haralds fødsel var arvefølgen sikret. Etter en Grunnlovsendring i 1990, er nå eldste barn uansett kjønn arveberettiget til tronen, men som en overgangsordning ble det bestemt at mann går foran kvinne for dem som er født før 1990.
-M Kong Harald er første *norggasriegádan en prins til 567 årenes. På det daværende Kronprinsparet var de tidligere to jenter, Prinsesse Ragnhild og prinsesse Astrid, men hun ikke på noen de to hatt med 1814 Grunnloven arvende en rett til tronen. Da Prins Harald ble født, så det hadde til tronen sikret arvingen. Etterpå at Grunnloven ble forandret 1990, så det er nå *boarraseamos på barnet arvende en rett til tronen, å bry seg det har jenta eller gutten, men som begynnelsesregel ble han bestemt at mannen går foran kvinna mellom dem som har blitt født før 1990.
+M Kong Harald er første *norggasriegádan en prins til 567 årenes. På det daværende Kronprinsparet var de tidligere to jenter, Prinsesse Ragnhild og prinsesse Astrid, men hun ikke på noen på dem to vært med 1814 Grunnloven arvende retten til tronen. Da Prins Harald ble født, så det hadde til tronen sikret arvingen. Etterpå at Grunnloven ble forandret 1990, så det er nå *boarraseamos på barnet arvende en rett til tronen, å bry seg det har jenta eller gutten, men som begynnelsesregel ble han bestemt at mannen går foran kvinna mellom dem som har blitt født før 1990.
 
 S Bajásšaddan
 R Oppvekst
@@ -524,15 +524,15 @@ M Første tre året *bajásšattai Prins Harald på det fredelige miljøet i Ska
 
 S Elverumas earránii Ruvdnaprinsa Olav eret iežas bearrašis. Ruvdnaprinseassa Märtha iežas golmmain mánáin, Prinseassa Ragnhild, Prinseassa Astrid ja Prinsa Harald báhtaredje sihkarvuhtii ráji badjel Ruŧŧii. Go ledje muhtun mánuid orron Ruoŧas, de vulggii Ruvdnaprinseassa oktan mánáidisguin fatnasiin USA:ii.
 R Ved Elverum skilte Kronprins Olav lag med sin familie. Kronprinsesse Märtha og de tre barna, Prinsesse Ragnhild, Prinsesse Astrid og Prins Harald flyktet i sikkerhet over grensen til Sverige. Etter noen måneder i Sverige reiste Kronprinsessen og barna videre til USA med båt.
-M i Elverum skiltes Kronprins Olav fra på sin familie. Kronprinsesse Märtha sin med tre barn, Prinsesse Ragnhild, Prinsesse Astrid og Prins flyktet Harald *sihkarvuhtii over grensen til Sverige. Da de hadde noen måner bodd i Sverige, så reiste Kronprinsessa sammen med barn med en båt US:hun ikke.
+M i Elverum skiltes Kronprins Olav fra på sin familie. Kronprinsesse Märtha sin med tre barn, Prinsesse Ragnhild, Prinsesse Astrid og Prins flyktet Harald *sihkarvuhtii over grensen til Sverige. Da de hadde noen måner bodd i Sverige, så reiste Ei kronprinsesse sammen med barn med en båt US:hun ikke.
 
 S Dan botta go Gonagas Haakon ja Ruvdnaprinsa Olav oruiga Londonis, de orui Ruvdnaprinseassa mánáidisguin olggobealde Washington DC dassážii ráfi fas bođii 1945:s.
 R Mens Kong Haakon og Kronprins Olav oppholdt seg i London, bodde Kronprinsessen og barna i utkanten av Washington DC til freden kom i 1945.
-M Mens Kong Haakon og Kronprins Olav bodde i London, så hun bodde Kronprinsessas med barn utenfor Washingtons DC. *dassážii freden kom igjen 1945.
+M Mens Kong Haakon og Kronprins Olav bodde i London, så bodde Kronprinsessa med barn utenfor Washingtons DC. *dassážii en fred kom igjen 1945.
 
 S Ruvdnaprinsa Olav máhcai ruovttoluotta Norgii miessemánu 13. beaivvi 1945, ja Gonagas Haakon ja earát Gonagasbearrašis duolmmastedje fas norgga eatnamii geassemánu 7. beaivvi. Gonagasbearaš vuostáiváldojuvvui máŧohis ávvučuorvasiiguin ollu duhát olbmuin geat ledje boahtán sin vuostáiváldit vihtta jagi okkupašuvnna maŋŋá.
 R Kronprins Olav kom tilbake til Norge 13. mai 1945, mens Kong Haakon og resten av Kronprinsfamilien satte foten på norsk jord 7. juni. Kongefamilien ble møtt med enorm jubel av de mange tusener som hadde møtt frem for å ta dem i mot etter fem års okkupasjon.
-M Kronprins Olav snudde hun tilbakeveien til Norge 13. mai 1945, og Kong Haakon og på den andre Kongefamilien trødde de igjen *norgga til jorden 7. juni. Kongefamilien *vuostáiváldojuvvui *máŧohis *ávvučuorvasiiguin mange på #tusen folkenes hadde som kommet deres mottakere fem etter årets okkupasjon.
+M Kronprins Olav hun snudde tilbakeveien til Norge 13. mai 1945, og Kong Haakon og på den andre Kongefamilien trødde de igjen *norgga til jorden 7. juni. Kongefamilien *vuostáiváldojuvvui *máŧohis *ávvučuorvasiiguin mange på #tusen folkenes som hadde kommet deres mottakere fem etter årets okkupasjon.
 
 S Oahppu
 R Utdanning
@@ -552,7 +552,7 @@ M Kronprinsen
 
 S Go Gonagas Haakon VII jámii čakčamánu 21. beaivvi 1957, šattai Prinsa Harald Ruvdnaprinsan, ja lei vuosttaš geardde mielde Stáhtaráđis. Jagi maŋŋá doaimmai son Regeantan Gonagasa sajis. Ruvdnaprinsa lei čađat Gonagasa bálddas ja oaččui dađista eanet ja eanet ovddastanbargguid. Earet eará lei son gávpesáttagottiid fárus dovddusindahkamin norgga ealáhusaid olgoriikkain.
 R Da Kong Haakon VII døde 21. september 1957, ble Prins Harald Kronprins, og møtte for første gang i Statsråd. Året etter fungerte han som Regent i Kongens fravær. Kronprinsen sto ved Kong Olavs side og fikk etter hvert flere representasjonsoppdrag. Han deltok blant annet sammen med handelsdelegasjoner for å fremme norsk næringsliv i utlandet.
-M Da Kong Haakon VII. han døde 21. september 1957, han ble Prins som Haralds Kronprins, og det var med den første gangen På statsrådet. etter Året fungerte han *Regeantan @sajis Kongen. Kronprinsen var alltid ved siden av Kongen og fikk *dađista mye og det #mye forestå arbeid. Unntatt annen var han med handelsdelegasjonene *dovddusindahkamin *norgga på næringenes utland.
+M Da Kong Haakon VII. han døde 21. september 1957, han ble Prins som Haralds Kronprins, og det var med den første gangen På statsrådet. etter Året fungerte han *Regeantan @sajis Kongen. Kronprinsen var alltid ved siden av Kongen og fikk *dađista mer og det #mye forestå arbeid. Unntatt annen var han med handelsdelegasjonene *dovddusindahkamin *norgga på næringenes utland.
 
 S 1960:s čađahii Ruvdnaprinsa Harald iežas vuosttaš stuora olgoritmátki. Son mátkkoštii USA:ii The American-Scandinavian Foundation 50 jagi ávvudeapmái.
 R I 1960 gjennomførte Kronprins Harald sin første store utenlandsreise. Turen gikk til USA i forbindelse med 50 årsjubileet til The American-Scandinavian Foundation.
@@ -564,15 +564,15 @@ M Familien
 
 S Njukčamánus 1968 almmuhuvvui ahte Gonagas Olav lei addán Ruvdnaprinsii lobi náitalit Sonja Haraldseniin, gii lei eretVinderenis Oslos. Soai leigga oahpásnuvvan juo ovcci jagi ovdal go mearriduvvui ahte oažžuba lobi náitalit.
 R I mars 1968 ble det kunngjort at Kong Olav hadde gitt sin tillatelse til at Kronprinsen fikk gifte seg med Sonja Haraldsen fra Vinderen i Oslo. Paret hadde kjent hverandre i ni år før det ble avgjort at ekteskap kunne inngåes.
-M I mars 1968 han ble publisert at Kong Olav hadde det gitt tillatelsen til Kronprinsen gifte seg med Sonja Haraldsen, som var *eretVinderenis i Oslo. De to var *oahpásnuvvan allerede ni år før han ble bestemt at de to får tillatelsen gifte seg.
+M I mars 1968 han ble publisert at Kong Olav hadde gitt tillatelsen til Kronprinsen gifte seg med Sonja Haraldsen, som var *eretVinderenis i Oslo. De to var *oahpásnuvvan allerede ni år før han ble bestemt at de to får tillatelsen gifte seg.
 
 S Gonagas Olavii ii lean diet dušše bearrašii gullevaš ášši, muhto stáhtaášši mas sáhtte šaddet váikkuhusat olles Gonagasválddi boahtteáigái. Go vuos lei ráđđádallan sihke Stuoradiggepresideanttain, parlamentáralaš jođiheddjiiguin ja Ráđđehusain, de attii Gonagas lobi Ruvdnaprinsii náitalit dakkárin gii ii lea gonagassogalaš. Borgemánu 29. beaivvi 1968 vihahuvvuiga soai Oslo Duopmogirkus. Olbmot miehtá riikka válde hui bures vuostá ođđa Gonagasbára. Ruvdnaprinseassa válddii maid oasi almmolaš ovddastangeatnegasvuođain.
 R For Kong Olav var ikke dette bare et familieanliggende, men også en statssak som kunne få konsekvenser for Kongedømmets fremtid. Etter å ha konsultert både Stortingspresidenten, de parlamentariske lederne og Regjeringen, ga Kongen sitt samtykke til at Kronprinsen giftet seg borgerlig. Den 29. august 1968 sto bryllupet i Oslo Domkirke. Det nye Kronprinsparet fikk en overveldende mottagelse blant folk over hele landet. Kronprinsessen tok sin del av de offisielle representasjonspliktene.
-M Kong Olav ikke han vært denne bare til familien *gullevaš saken, men statssaken hvor de kunne de blir påvirkninger den hele Kongefullmaktens til fremtiden. Når først hadde det drøftet både Med en #stor tingpresident, med parlamentariske leder og regjering, så gav Kongen tillatelsen Til kronprinsen gifte seg som slik som ikke det er en kongeslektning. 29. august 1968 de to ble viet på Oslos Domskirke. Folk i hele landet de tok svært godt @vuostá det nye Kongeparets. Kronprinsessa tok også delen det #offentlig forestå på pliktene.
+M Kong Olavi ikke han vært denne bare til familien *gullevaš saken, men statssaken hvor de kunne de blir påvirkninger den hele Kongefullmaktens til fremtiden. Når først hadde det drøftet både Med en #stor tingpresident, med parlamentariske leder og regjering, så gav Kongen tillatelsen Til kronprinsen gifte seg som slik som ikke det er en kongeslektning. 29. august 1968 de to ble viet på Oslos Domskirke. Folk i hele landet de tok svært godt @vuostá det nye Kongeparets. Kronprinsessa tok også delen det #offentlig forestå på pliktene.
 
 S Sihke ovttas ja goabbáge sierranassii finadeigga soai ollu báikkiin Norggas, ja leaba čađahan ollu mátkkiid olgoriikkain. Gonagas Haraldis ja Dronnet Sonjas lea guokte máná. Prinseassa Märtha Louise riegádii čakčamánu 22. beaivvi 1971, ja Ruvdnaprinsa Haakon riegádii suoidnemánu 20. beaivvi 1973.
 R Sammen og hver for seg har de besøkt en rekke steder i Norge, og de har gjennomført mange reiser internasjonalt. Kong Harald og Dronning Sonja har to barn. Prinsesse Märtha Louise ble født 22. september 1971, og Kronprins Haakon 20. juli 1973.
-M Både @ovttas og begge *sierranassii besøkte de to mange med et sted i Norge, og de to har gjennomført mange reiser på utlandene. Kong Harald og #Dronning Sonja har to barn. Prinsesse Märtha Louise ble født 22. september 1971, og Kronprins Haakon ble hun født 20. juli 1973.
+M Både @ovttas og begge *sierranassii besøkte de to mange med et sted i Norge, og de to har gjennomført mange reiser på utlandene. Kong Harald og #Dronning Sonja har to barn. Prinsesse Märtha Louise ble født 22. september 1971, og Kronprins Haakon hun ble født 20. juli 1973.
 
 S Almmolaš geatnegasvuođau
 R Offisielle plikter
@@ -596,11 +596,11 @@ M En konge har *Generála et nivå på Beskyttelsen og luftbeskyttelsen, og han 
 
 S Beaivválaš bargguide Gonagaslaš šloahtas Oslos gullet maid audienssat, ovdanbuktimat, ságastallamat stáhtaministarin, olgoritministarin ja Suodjalusa ovddasteddjiiguin. Gonagas finada dávjá priváhta ja almmolaš institušuvnnain go lea mátkkošteamen iešguđet guovlluin riikkas.
 R I det daglige arbeidet på Det Kongelige Slott i Oslo inngår også audienser, foretreder, samtaler med statsminister, utenriksminister og med representanter for Forsvaret. Kongen besøker ofte private og offentlige institusjoner på sine reiser til forskjellige deler av landet.
-M Til de daglige arbeidene På det kongelige slottet i Oslo hører de også *audienssat, *ovdanbuktimat, dialoger på statsministeren, på utenriksministeren og Beskyttelsen @ovddasteaddji. Kongen besøker ofte privat og på de offentlige institusjonene når det er i gang med å reise på de forskjellige områdene på landet.
+M Til de daglige arbeidene På det kongelige slottet i Oslo hører de også *audienssat, *ovdanbuktimat, dialoger på statsministeren, på utenriksministeren og Beskyttelsen @ovddasteaddji. Kongen besøker ofte privat og på de offentlige institusjonene når det er i gang med å reise på de #forskjellig områdene på landet.
 
 S Juohke jagi lágida Gonagasbárra fylkamátkkiid – diekkár mátkkiin soai fitnaba máŋgga suohkanis fylkkas moatti beaivvis. Gonagasbárra geavaha dávjá Gonagasskiippa ”Norge” go mátkkošteaba norgga riddoguovlluin.
 R Hvert år gjennomfører Kongeparet en fylkesreise – der de besøker flere av fylkets kommuner i løpet av noen dager. Kongeskipet ”Norge” blir ofte benyttet av Kongeparet ved reiser langs norskekysten.
-M Hvert år driver Et kongepar fylkereiser – på de @diekkár reisene de to er på på mange kommunenes på fylket på #par dagenes. Kongeparet bruker ofte Kongeskipet ”Norge” når de to reiser *norgga på kystområdene.
+M Hvert år driver Et kongepar fylkereiser – på de @diekkár reisene de to er på på mange kommunenes på fylket om #par dagenes. Kongeparet bruker ofte Kongeskipet ”Norge” når de to reiser *norgga på kystområdene.
 
 S Sivdnádallan
 R Signing
@@ -612,7 +612,7 @@ M Da Kong Olav ble syk våren 1990, så måtte *Ruvdnaprinsaregeanta ta over Kon
 
 S Gonagas ja Dronnet sivdnádalluiga iežaska sávaldaga mielde Nidarosdomenis Troandimis geassemánu 23. beaivvi 1991. Gonagassivdnádallan lea máŋga duhátjagi boares árbevierru Norggas ja čađahuvvui ovdalaš áiggiid dan oktavuođas go ođđa monárka ruvdnejuvvui. 1908:s sihkui Stuoradiggi ruvdnenparagráfa Vuođđolágas. Gonagas Olav, gii anii hui árvvus árbevieruid, dovddahii ahte son áinnas dáhtui sivdnádallojuvvot Nidarosdomenis. Sivdnádallamiin dáhtui Gonagas Olav vuostáiváldit Ipmila buressivdnádusa gonagasbarggus badjelii. Dán árbevieru hálideigga Gonagas Harald ja Dronnet Sonja fievrredit viidáseappot dalle go Nidaros bisma Finn Wagle sivdnádalai sudno.
 R Kongen og Dronningen ble etter eget ønske signet i Nidarosdomen i Trondheim 23. juni 1991. Kongesigning er en tusenårig tradisjon i Norge og ble tidligere foretatt under kroningen av den nye monark. I 1908 fjernet Stortinget kroningsparagrafen i Grunnloven. Kong Olav som hadde stor sans for tradisjoner, ga uttrykk for at han gjerne ville bli signet i Nidarosdomen. Gjennom signingen ønsket Kong Olav å motta Guds velsignelse over sin kongegjerning. Denne tradisjonen ønsket Kong Harald og Dronning Sonja å føre videre da de ble signet av biskop Finn Wagle i Nidaros.
-M Kongen og Dronning *sivdnádalluiga med deres ønske på #Nidarosdomen i Trondhjem 23. juni 1991. *Gonagassivdnádallan er mange *duhátjagi den gamle tradisjonen i Norge og han ble gjennomført tidligere tider i den sammenhengen når ny *monárka *ruvdnejuvvui. 1908 tørket Stortinget *ruvdnenparagráfa på Grunnloven. Kong Olav, som brukte svært tradisjoner på verdien, han røpte at han ville gjerne *sivdnádallojuvvot på #Nidarosdomen. *Sivdnádallamiin ville Kong Olav mottakere Ipmil over velsignelsens kongearbeid. De to ville denne tradisjonen Kong Harald og #Dronning Sonja transportere vidstraktere da enn Nidaros' biskop Finn *Wagle skapte seg dem to.
+M Kongen og Dronning *sivdnádalluiga med deres ønske på #Nidarosdomen i Trondhjem 23. juni 1991. *Gonagassivdnádallan er mange *duhátjagi den gamle tradisjonen i Norge og han ble gjennomført tidligere tider i den sammenhengen når ny *monárka *ruvdnejuvvui. 1908 tørket Stortinget *ruvdnenparagráfa på Grunnloven. Kong Olav, som brukte svært tradisjoner på verdien, han røpte at han ville gjerne *sivdnádallojuvvot på #Nidarosdomen. *Sivdnádallamiin ville Kong Olav mottakere Gud over velsignelsens kongearbeid. De to ville denne tradisjonen Kong Harald og #Dronning Sonja transportere vidstraktere da enn Nidaros' biskop Finn *Wagle skapte seg dem to.
 
 S Sivdnádallama oktavuođas čađahii Gonasbárra logi beaivásaš birramátkkošteami Lulli-Norggas. Jagi maŋŋá mátkkoštii Gonagasbárra 22 beaivvi njealji davimus fylkkain.
 R I forbindelse med signingen gjennomførte Kongeparet en ti dagers rundreise i Sør-Norge. Året etter gjennomførte Kongefamilien en 22 dager lang reise i de fire nordligste fylkene.
@@ -624,7 +624,7 @@ M Omsorgene
 
 S Gonagasbearaš liiko hui bures falástallamii ja olgoáimmu ovddas vánddardit. Gonagas Harald liiko návddašit luonddu, dan dahká son go bivdá ja lea guollebivddus. Son berošta birasgažaldagain ja lei 20 jagi Verdens Naturfond (WWF Norge) presideanta.
 R Kongefamilien er svært interessert i idrett og friluftsliv. Kong Harald er glad i naturopplevelser, som han kombinerer med jakt og fiske. Han er opptatt av miljøspørsmål og var i 20 år president i Verdens Naturfond (WWF Norge).
-M Kongefamilien hun liker svært godt drivende idrett og for uteluften vandre. Kong Harald liker hun å nyte naturen, det gjør hun når hun jakter og er på fisketuren. Hun bryr seg på miljøspørsmålene og det var 20 år *Verdens *Naturfond (*WWF Norges president.
+M Kongefamilien han liker svært godt drivende idrett og for uteluften vandre. Kong Harald liker å nyte naturen, det gjør han når han jakter og er på fisketuren. Han bryr seg på miljøspørsmålene og det var 20 år *Verdens *Naturfond (*WWF Norges president.
 
 S Gonagasbárra lei hui áŋgir Lillehammer olympiija dálvegilvvuid lágideami oktavuođas 1994:s. Gonagas lei Organisašuvdnakomitea (LOOC) gudniovdaolmmoš ja lei ge son gii rabai dieid dálvegilvvuid.
 R Kongeparet engasjerte seg aktivt i forbindelse med de olympiske vinterlekene på Lillehammer i 1994. Kongen var æresformann i Organisasjonskomiteen (LOOC), og det var han som åpnet vinterlekene.
@@ -632,7 +632,7 @@ M Kongeparet hadde svært ivrig Lillehammers #olympie vinterkonkurranser det dri
 
 S Gonagas lea máŋgii birgen mearkkašanveara bures našuvnnalaš ja internašuvnnalaš borjjastangilvvuin. 1964:s guttii son norgga leavgga Olympiija geassegilvvuid rahpamis Tokyos. 1987:s šattai son ja su fanasveahka máilmmimeasttirin borjjasfatnasiin, ovttatonneriin "Fram X", ja 2005:s šadde sii eurohpameastirin ”Fram XV” borjjasfatnasiin. Gonagas searvá ain áŋgirit gilvoborjjastemiide ja lea juohke jagi mielde našuvnnalaš ja internašuvnnalaš regattain. 2006:s oaččui Gonagas ođđa borjjasfatnasa, ”Fram XVI”.
 R Kongen har flere ganger markert seg i nasjonale og internasjonale seilmesterskap. I 1964 bar han det norske flagget ved åpningen av de Olympiske sommerlekene i Tokyo. I 1987 ble han og mannskapet verdensmestre med seilbåten, entonneren "Fram X", og i 2005 ble de europamestre med ”Fram XV”. Kongen er fortsatt aktiv konkurranseseiler og deltar hvert år i nasjonale og internasjonale regattaer. I 2006 fikk Kongen ny seilbåt, ”Fram XVI”.
-M Kongen er mange ganger greid seg en kommentar godt nasjonal og det #internasjonal seile med en konkurranse. 1964 bar han *norgga flagget #Olympie sommerkonkurranser åpnende i Tokyo. 1987 ble #han og hans #mannskap *máilmmimeasttirin med en seilskute, *ovttatonneriin "*Fram @X", og 2005 ble de *eurohpameastirin ”*Fram XV.” på seilskutene. Kongen slutter seg sammen enda til de ivrigere konkurranseseile og det er med hvert år nasjonal og internasjonal *regattain. 2006 fikk Kongen den nye seilskuten, ”*Fram @XVI”.
+M Kongen er mange ganger greid seg en kommentar godt nasjonal og det #internasjonal seile med en konkurranse. 1964 bar han *norgga flagget #Olympie sommerkonkurranser åpnende i Tokyo. 1987 ble #han og hans #mannskap *máilmmimeasttirin med en seilskute, *ovttatonneriin "*Fram #Xalphabet", og 2005 ble de *eurohpameastirin ”*Fram XV.” på seilskutene. Kongen slutter seg sammen enda til de ivrigere konkurranseseile og det er med hvert år nasjonal og internasjonal *regattain. 2006 fikk Kongen den nye seilskuten, ”*Fram @XVI”.
 
 S ovdasiidu
 R forsiden
@@ -684,7 +684,7 @@ M *Dekorašuvnnat
 
 S Sivdnádallan
 R Signing
-M #Skape
+M Skapt seg
 
 S Sártnit
 R Taler
@@ -692,7 +692,7 @@ M Prekenene
 
 S Suddjendoaimmat
 R Beskytterskap
-M Beskyttelsesoppgavene
+M Beskyttende oppgavene
 
 S Govvaalbum
 R Fotoalbum
@@ -724,7 +724,7 @@ M Et format
 
 S Jođánis válljen
 R Hurtigvalg
-M Det hurtige valget
+M Hurtig valgt
 
 S Ruvdnaprinsabára siiddut
 R Kronprinsparets sider
@@ -866,14 +866,6 @@ S Østerriika
 R Østerrike
 M *Østerriika
 
-S Mun gal jahkan ahte vel govdnojit sivat, manin Suoma iehcanasvuoda avvudeamit eai guoskkat du. 
-R Jeg trur selvsagt at en kan finne grunner til at finske feiringer av uavhengighet ikke berører deg.
-M Jeg vel *jahkan at enda *govdnojit grunnene, hvorfor Finland *iehcanasvuoda *avvudeamit berører ikke @du 
-
-S Muhto maid gavdnojit sivat, manin Suoma iehcanasvuoda avvudeamit gusket muhtun eara olbmuid.
-R Men det finnes også grunner til at finske feiringer av uavhengighet berører mange andre mennesker.
-M Men også *gavdnojit grunnene, hvorfor Finland *iehcanasvuoda *avvudeamit berører noen *eara folk.
-
 S Norga.no birra
 R Om Norge.no
 M Norge.nå omkring
@@ -888,23 +880,23 @@ M Mer informasjoner på det hvordan du kan ta kontakt til oss, finner du  Spør 
 
 S Bálvalus-julggaštus
 R Service-erklæring
-M Tjenesteerklæringen
+M *Bálvalus
 
 S Masa addá Norga.no veahki?
 R Hva kan Norge.no hjelpe med?
-M Som gir Norge.nå hjelpen?
+M Til hva gir Norge.nå hjelpen?
 
 S Norga.no lea almmolaš bálvalus mas lea internettportála www.norge.no ja álbmotbálvalus mii vástádida go váldá oktavuođa telefovnnain, neahttaságastallamiin, e-poasttain, SMS:ain, reivviin ja telefáksain.
 R Norge.no er en offentlig tjeneste som består av internettportalen www.norge.no og en publikumstjeneste som svarer på henvendelser via telefon, nettprat, e-post, SMS, brev og telefaks.
-M Norge.nå er en offentlig tjeneste hvor er *internettportála *www.*norge.nå og folketjenesten som *vástádida når han tar kontakt med en telefon, med en nettdialog, med e-posten, *SMS:enda, på brev og *telefáksain.
+M Norge.er nå en offentlig tjeneste hvor er *internettportála *www.*norge.nå og folketjenesten som *vástádida når han tar kontakt med en telefon, med en nettdialog, med e-posten, *SMS:enda, med brev og *telefáksain.
 
 S Norga.no sáhttá du veahkehit dieđuiguin almmolaš ásahusaid, lágaid, njuolggadusaid, geatnegasvuođaid ja vuoigatvuođaid birra. Jus oktavuođaváldin guoská áinnaskasáššiide dahje lágaid dulkomii, veahkehit mii du gávdnat rievttes almmolaš kantuvrra.
 R Norge.no kan hjelpe deg med opplysninger om offentlige virksomheter, lover, regler, plikter og rettigheter. Gjelder henvendelsen enkeltsaker eller tolkning av lover, hjelper vi deg med å finne fram til rett offentlig kontor.
-M Norge.nå kan han hjelpe deg med informasjoner de offentlige ordningene, lovene, reglene, pliktene og rettighetene om. Hvis som kontaktpågriper berører *áinnaskasáššiide eller lovenes tolking, hjelper vi du å finne riktige det offentlige kontoret.
+M Norge.kan nå hjelpe deg med informasjoner de offentlige ordningene, lovene, reglene, pliktene og rettighetene om. Hvis som kontaktfullmakt berører *áinnaskasáššiide eller lovenes tolking, hjelper vi du å finne riktige det offentlige kontoret.
 
 S Don sáhtát váldit oktavuođa Norga.no’in anonymalaccat.
 R Du kan kontakte Norge.no anonymt. 
-M Du kan ta kontakt Norge.nå’ikke *anonymalaccat.
+M Du kan ta kontakt Norge.ikke’nå *anonymalaccat.
 
 S Vástidanáiggit
 R Svartider
@@ -928,11 +920,11 @@ M Hvis du sender e-posten, brev eller *telefáksa, *vástádit som til deg *golm
 
 S www.norge.no ođasmahttin
 R Oppdatering av www.norge.no
-M *www.*norge.nå oppdaterende
+M *www.*norge.nå oppdatere
 
 S Norga.no ođasmahttá dávjá portála sisdoalu. 
 R Norge.no oppdaterer jevnlig portalens innhold. 
-M Norge.nå oppdaterer han ofte *portála innholdet. 
+M Norge.oppdaterer nå ofte *portála innholdet. 
 
 S Almmatge sáhttá gávdnot sisdoallu mii ii leat áibbas dievaslaš dahje otná beaivvi mielde. 
 R Likevel kan det finnes innhold som ikkje er fullstendig eller ajourført. 
@@ -940,7 +932,7 @@ M Likevel kan innholdet finnes som ikke er helt fullstendig eller *otná med dag
 
 S Jus gávnnat boasttuvuođaid dahje leat cealkámušat, sádde áinnas midjiide e-poasta.
 R Finner du feil eller har kommentarer, send oss gjerne e-post.
-M Hvis du finner *boasttuvuođaid eller er en uttalelse,  send gjerne til oss e-posten.
+M Hvis du finner *boasttuvuođaid eller er en uttalelse, han sender gjerne til oss e-posten.
 
 S www.norge.no ovdánahttimis deattuhit mii geavaheddjiid dárbbuid ja eavttuid, lassin obbalaš gáibádusaide leat olámuttos ja geavaheaddjiustitlaš.
 R I utviklingen av www.norge.no legger vi vekt på brukernes behov og forutsetninger, i tillegg til generelle krav om tilgjengelighet og brukervennlighet.
@@ -948,7 +940,7 @@ M *www.*norge.nå utviklende betoner vi brukernes behov og betingelser, som till
 
 S Giella
 R Språk
-M Et språk
+M Språket
 
 S Norga.no geahccala deavdit almmolaš bálvalusaid giellageavaheami lága gáibádusaid. 
 R Norge.no søker å oppfylle kravene i lov om målbruk i offentleg teneste. 
@@ -1012,7 +1004,7 @@ M Med en offentlig oppgave tros han:
 
 S     * Hálddašanorgánat ja fitnodagat hálddahuslága §1 mielde ja orgánat mat leat vealtan dán lágas gc. §4
 R     * forvaltningsorganer og -bedrifter etter forvaltningslovens §1 og organer som er unntatt fra denne loven jf §4
-M     *Forvaltningsorganene og firmaene administrasjonsloven §1 med og organene som har unngått på denne loven *gc. §4
+M     *Det forvalte over organene og firmaene administrasjonsloven §1 med og organene som har unngått på denne loven *gc. §4
 
 S     * gonagasviessu
 R     * kongehuset
@@ -1032,11 +1024,11 @@ M Mer de offentlige nettstedenes om kvaliteten
 
 S Okta Norga.no ulbmiliin lea váikkuhit almmolaš neahttasiidduid kvaliteahta buorideapmái. 
 R Et av målene til Norge.no er å stimulere til bedre kvalitet på offentlige nettsider. 
-M Et Norge.nå på målene er det påvirke offentlige nettsider kvaliteten til det forbedre. 
+M Et Norge.nå på målene det er påvirke offentlige nettsider kvaliteten til det forbedre. 
 
 S Norga.no ráhkada almmolaš neahttasiidduid kvaliteahtaeavttuid. 
 R Det er Norge.no som utarbeider kvalitetskriterier for offentlige nettsider. 
-M Norge.nå lager han de offentlige nettsidenes kvalitetsbetingelser. 
+M Norge.lager nå de offentlige nettsidenes kvalitetsbetingelser. 
 
 S Kvaliteahtaeavttut ođasmahttojuvvo 2005:s. 
 R Kvalitetskriteriene ble oppdatert i 2009. 
@@ -1060,7 +1052,7 @@ M *Álggugeahčen var en middelalder i Norge mange mindre kongefullmaktvillreine
 
 S Harald Hårfagre áhčči, Halvdan Svarte, lei Vestfold ja Oppland smávvagonagas. Harald galgá leat leamaš sullii logejahkásaš go válddii badjelasas riikka, maŋŋá go Halvdan Svarte manai jieŋa čađa Randsfjordenis ja heavvanii. Muhto Haraldis ledje viidát áigumušat, son mearridii čohkket buot smávva gonagasváldegottiid oktan riikan. Snorres gonagasmuitalusain lohkat ahte son vuortnui ahte ii áigon čuohppat vuovttaid ja skávččaid ovdalgo lei dien mihttomeari joksan, ja danin son oaččui ge dan nama mii sus lei.
 R Harald Hårfagres far, Halvdan Svarte, var småkonge i Vestfold og Oppland. Harald skal ha vært ti år da han overtok riket, etter at Halvdan Svarte gikk gjennom isen på Randsfjorden og druknet. Harald hadde imidlertid større ambisjoner, og bestemte seg for å samle alle småkongedømmene til ett rike. I følge Snorres kongesagaer, sverget han å ikke kutte hår og skjegg før han hadde nådd dette målet, og det var opphavet til tilnavnet hans.
-M Harald Hårfagres far, Halvdan *Svarte, var Vestfold og Oppland en litenkonge. Harald skal være vært omtrent *logejahkásaš da han tok over landet, etter da Halvdan *Svarte drog gjennom isen *Randsfjordenis og han druknet. Men Harald hadde vidstrakt viljer, han bestemte å samle all lille konge fullmaktvillreiner som et land. på Snorre på kongefortellingene sier vi at han sverget at han ikke skulle skjære hår og *skávččaid før det hadde innhentet denne målsettingen, og derfor fikk han også det navnet som han hadde.
+M Harald Hårfagres far, Halvdan *Svarte, var Vestfold og Oppland en litenkonge. Harald skal være vært omtrent *logejahkásaš da han tok over landet, etter da Halvdan *Svarte drog gjennom isen *Randsfjordenis og han druknet. Men Harald hadde vidt viljer, han bestemte å samle all lille konge fullmaktvillreiner som et land. på Snorre på kongefortellingene sier vi at han sverget at han ikke skulle skjære hår og *skávččaid før det hadde innhentet denne målsettingen, og derfor fikk han også det navnet som han hadde.
 
 S Hafrsfjord soahti rehkenasto leat maŋŋemus oassi su čohkkenbarggus, dat lei birrasii 885:s. Vaikko riika dál galggai ge leat čohkkejuvvon ovtta gonagasa vuollái, de lei ain guhkes mátki bissovaš ja nanu organisatuvrralaš ovttadahkii. Leidangen šattai mearkkašeaddjin dán riikkačohkken organiserenbarggus.
 R Slaget ved Hafrsfjord regnes som sluttføringen av samlingsverket, rundt 885. Selv om landet nå i prinsippet var samlet under én konge, var det likevel langt igjen til en fast og stabil organisatorisk enhet. Leidangen skulle bli ett element i slik en organisatorisk rikssamling.
@@ -1068,15 +1060,15 @@ M Hafrsfjords krig regnes være *maŋŋemus delen hans samlende på arbeidet, de
 
 S Leidangen lei oktasaš, organiserejuvvon mearrasuodjalus mas ledje báikkálaš fatnasat. Dat huksejuvvon Harald Hårfagre bártni, Håkon Adelstensfostre (sullii 920-960) ráđđenáiggis. Riddoguovlluid ássiin lei geatnegasvuohta lágidit gonagassii fatnasiid, fanasveaga ja borramušaid. Áiggi vuollái šattai dát Leidanger geatnegasvuohta rievdaduvvot dábálaš vearrun maid galge máksit gonagassii.
 R Leidangen var et felles, organisert kystforsvar basert på lokale skip. Den ble bygget opp under Harald Hårfagres sønn, Håkon Adelstensfostre (ca. 920-960). Befolkningen langs kysten pliktet å stille med skip, mannskap og proviant. Over tid ble denne plikten til å stille med ressurser til leidangen omdannet til en ordinær skatt til kongen.
-M *Leidangen hadde felles, organisert havbeskyttelsen hvor de var lokale båter. @Dat bygd Harald Hårfagres gutten, Håkons *Adelstensfostre (omtrent 920-960) rådende på tiden. Kystområdenes på de bor var det en plikt drive båter til kongen, mannskapet og matene. under #Áigi ble han denne *Leidanger plikten forandres som vanlig skatt som de skulle bety til kongen.
+M *Leidangen hadde felles, organisert havbeskyttelsen hvor de var lokale båter. Det bygd Harald Hårfagres gutten, Håkons *Adelstensfostre (omtrent 920-960) rådende på tiden. Kystområdenes på de bor var det en plikt drive båter til kongen, mannskapet og matene. under Tiden ble han denne *Leidanger plikten forandres som vanlig skatt som de skulle bety til kongen.
 
 S Norgga risttalažžan dahkamis lei čielga riikačohkken doaibma. Risttalašvuhtii joraheapmi dáhpáhuvai guhkes áiggis, muhto Gonagas Olav Haraldsson ja Stiklestad soahti 1030:s navdojuvvojit mearkan dasa ahte dalle lei Norga šaddan risttalaš riikan. Gonagas gahčai ieš dien soađis, muhto dan rájes šattai risttalašvuohta riika almmolaš oskun ja go huksegohte miehtá riikka girkoorganisašuvnnaid, de dat maid nannii riikka gonagasválddi. Maŋŋá jápmimis de aliduvvui Gonagas Olav bassin, ja nu šattai ge Bassi Olav našuvnnalaš symbolan. Su bassivuođa govva váikkuhii dasa ahte risttalašvuohta ruohtasnuvai, muhto dat nannii maid Olav maŋisbohttiid ruvnnoárben gáibádusaid.
 R Kristningen av Norge hadde en klart rikssamlende funksjon. Kristningen var en prosess over lang tid, men tidfestes gjerne til Kong Olav Haraldsson og slaget på Stiklestad i 1030. Kongen falt selv i slaget, men kristendommen ble landets offisielle religion og oppbyggingen av en landsomfattende kirkeorganisasjon bidro til å styrke rikskongedømmet. Etter sin død ble Kong Olav kanonisert, og Olav den hellige ble et nasjonalt symbol. Hans helgenstatus bidro til kirkens gjennomslagskraft, men ga også legitimitet til Olavs etterkommere og deres krav på kronen.
-M Norges kristen gjørende var det det #klar landet samlende en oppgave. Til kristendommen hendte det snu på den lange tiden, men Kong Olav Haraldssons og Stiklestads #krig 1030 kalles de som merke til det at da hadde Norge blitt kristen som land. Kongen falt selv på denne krigen, men fra det ble kristendommen et land offentlig troende og da de begynte å bygge i hele landets kirkeorganisasjoner, så det styrket også landets kongefullmakt. Etter døden så ble Kong Olav forhøyd hellig, og slik ble han også #Hellig Olav som nasjonalt symbol. Hans hellige bildet påvirket til det at kristendommen *ruohtasnuvai, men det styrket også Olavs etterkommeres kronearvende krav.
+M Norges kristen gjørende var det det #klar landet samlende en oppgave. Til kristendommen hendte det snu på den lange tiden, men Kong Olav Haraldsson og Stiklestads krig kalles 1030 som merke til det at da hadde Norge blitt kristen som land. Kongen falt selv på denne krigen, men fra det ble kristendommen et land offentlig troende og da de begynte å bygge i hele landets kirkeorganisasjoner, så det styrket også landets kongefullmakt. Etter døden så ble Kong Olav forhøyd hellig, og slik ble han også #Hellig Olav som nasjonalt symbol. Hans hellige bildet påvirket til det at kristendommen *ruohtasnuvai, men det styrket også Olavs etterkommeres kronearvende krav.
 
 S Girku fápmu nannejuvvui 1100-logu mielde, go ásahuvvo bissovaš bismagottit ja huksejuvvojedje eanet klosterat. Vuosttaš ruvdnen Norggas lei mánnágonagasa Magnus Erlingson ruvdnen 1163:s, ja dat nannii girku guovddáš saji. Diet nuorra gonagas lei soađis birkebeiner Sverre Sigurdssoniin, ja sus lei eatnis bokte árbenriekti. Son fertii nannet iežas truvdnogáibádusa girku buressivdnádusa bokte.
 R Kirken styrket sin makt utover 1100-tallet gjennom etableringen av faste bispeseter og flere klostre. Kroningen av barnekongen Magnus Erlingson i 1163 var den første i Norge, og befestet kirkens sentrale stilling. Den unge kongen lå i strid med birkebeineren Sverre Sigurdsson, og hadde arverett bare gjennom moren. Han måtte styrke sitt krav på tronen gjennom kirkens velsignelse.
-M Kirkens makt ble styrket @1100- med tallet, da han ordnes vedvarende biskopvillreiner og de ble bygd mye *klosterat. Første *ruvdnen i Norge var det barnekong Magnus Erling montro *ruvdnen 1163, og det styrket kirkens det @guovddáš stedet. Denne unge kongen var flisen *birkebeiner Sverre *Sigurdssoniin, og han hadde via mor arvende en rett. Han måtte styrke seg selv tronekravet via kirkens velsignelse.
+M Kirkens makt ble styrket @1100- med tallet, da han ordnes vedvarende biskopvillreiner og de ble bygd mer *klosterat. Første *ruvdnen i Norge var det barnekong Magnus Erling montro *ruvdnen 1163, og det styrket kirkens det @guovddáš stedet. Denne unge kongen var flisen *birkebeiner Sverre *Sigurdssoniin, og han hadde via mor arvende en rett. Han måtte styrke seg selv tronekravet via kirkens velsignelse.
 
 S Riikka iešguđetguovlluid lágadikkit ledje maid doaibman čohkkejeaddjin juo 800-logu rájes. 1270-logus oaččui Norga vuosttaš riikaviidosaš láhkaásahusa, mii lei Magnus Lagabøtes landslov.
 R Lagtingene i ulike deler av landet, hadde vært en samlende institusjon med røtter tilbake til 800-tallet. På 1270-tallet fikk Norge sin første riksdekkende lovgivning gjennom Magnus Lagabøtes landslov.
@@ -1088,11 +1080,11 @@ M Jeg arver og velger.
 
 S Gaskaáiggi norgga gonagasráđđejupmi lei árbbolaš válljengonagasráđđejupmi. Dat lei nuppiin sániin dadjat sihke árbema ja válljema duohken. Buot gonagasa bártniin lei seamma vuoigatvuohta truvdnui ja sii sáhtte dan gáibádusa ovddidit diggái. Muhto lei dikki áirasiid duohken válljet su dahje hilgut su gáibádusa. Dikki dohkkeheapmi, álbmoga válljen, dagai gonagasfámu lobálažžan.
 R Det norske kongedømmet i middelalderen var et arvelig valgkongedømme. Det bygget med andre ord på en kombinasjon av arv og valg. Alle kongens sønner hadde lik rett til tronen og kunne legge sitt krav fram på tinget. Men det var opp til de frammøtte der å velge eller vrake ham. Tingets aksept, folkets valg, ga kongemakten legitimitet.
-M Middelalderen *norgga kongerådigheten var en arving en valgkongerådighet. Det var med annen med et ord si både arvende og @duohken valget. All konges gutter hadde #samme rettigheten til tronen og de kunne fremme det kravet til tinget. Men det var @duohken tingets representanter velge ham eller vrake hans krav. Tingets godta, folkets velge, han gjorde kongemakten lovlig.
+M Middelalderen *norgga kongerådigheten var en arving velgende en kongerådighet. Det var med det andre ordet si både arvende og @duohken valget. På all konges gutter det var #samme rettigheten til tronen og de kunne fremme det kravet til tinget. Men det var @duohken tingets representanter velge ham eller vrake hans krav. Tingets godta, folkets velge, han gjorde kongemakten lovlig.
 
 S Go 1163 Truvdnoárbenláhka bođii, de šattai nu ahte buot gonagasbártniin ii lean šat seamma riekti árbet truvnno, muhto lei boarraseamos bárdni gii galggai dan árbet. Dát nannejuvvui 1260:s go Norga oaččui ođđa truvdnoárbenlága. Dan rájes lei Norga čielga árbenriika, gos gonagasfápmu manai árbbis áhčis boarraseamos bárdnái.
 R Tronfølgerloven av 1163 erstattet alle kongesønners rett til tronen med et enekongedømme der eldste sønn hadde arverett. Dette ble stadfestet i 1260 da Norge fikk en ny tronfølgerlov. Fra da av var Norge et rent arverike, der kongemakten gikk i arv fra far til eldste sønn.
-M Da 1163 Troner arvende loven kom, så han ble slik at på alle kongssønner ikke han hatt mer #samme retten arve tronen, men var *boarraseamos gutten som han skulle arve det. Denne ble styrket 1260 da Norge fikk den #ny tronen arvende loven. fra Det var Norge klar arvende et land, hvor gikk kongemakten på arven fars *boarraseamos til gutten.
+M Da 1163 Troner arvende loven kom, så han ble slik at på alle kongssønner han hatt ikke mer #samme retten arve tronen, men var *boarraseamos gutten som han skulle arve det. Denne ble styrket 1260 da Norge fikk den #ny tronen arvende loven. fra Det var Norge klar arvende et land, hvor gikk kongemakten på arven fars *boarraseamos til gutten.
 
 S Persuvnnalaš uniuvnnat.
 R Personalunioner.
@@ -1100,183 +1092,11 @@ M Personlig *uniuvnnat.
 
 S 1319:s jámii Håkon V Magnusson, ja sus eai lean bártnit árbejeaddjin. Su nieida Ingeborg lei náitalan ruoŧa truvdnoárbbolaččain, gean namma lei Erik. Sudno bárdni, Magnus, árbii ge dasto sihke Norgga ja Ruoŧa. Dát lei álgu eatnat persuvnnalaš uniuvnnaide gaskal Norgga, Ruoŧa ja Dánmárkku.
 R 1 1319 døde Håkon V Magnusson uten en mannlig arving. Hans datter Ingeborg var gift med den svenske tronarvingen, Erik. Deres sønn, Magnus, arvet således både Norge og Sverige. Dette er starten på en rekke personalunioner mellom Norge, Sverige og Danmark.
-M 1319 døde Håkon @V Magnusson, og han hadde ikke gutter som arver. Hans jente Ingeborg det hadde giftet seg *ruoŧa med en tronearving, som navnet var Erik. Deres gutt, Magnus, han arvet også deretter både Norge og Sverige. Denne var en begynnelse @eatnat personlige *uniuvnnaide mellom Norges, Sveriges og Danmark.
+M 1319 døde Håkon #Valphabet Magnusson, og han hadde ikke gutter som arver. Hans jente Ingeborg det hadde giftet seg *ruoŧa med en tronearving, som navnet var Erik. Deres gutt, Magnus, han arvet også deretter både Norge og Sverige. Denne var en begynnelse @eatnat personlige *uniuvnnaide mellom Norges, Sveriges og Danmark.
 
 S Norga heajusnuvvá politihkalaččat ja ekonomalaččat 1300-logu mielde, earet eará svartedauden jápmindávdda geažil, ja šaddá čađat heajut oassin dáid uniuvnnain. 1536 rájes šaddá Norga Dánmárkku vuollásaš gulolašriikan.
 R Norge svekkes politisk og økonomisk utover 1300-tallet, blant annet som følge av svartedauden, og blir en stadig svakere part i disse unionene. Fra 1536 blir Norge et lydrike under Danmark. 
-M Norge *heajusnuvvá politiske og økonomiskere @1300- med tallet, unntatt annen *svartedauden på grunn av dødssykdommen, og han blir alltid dårlig som del disse *uniuvnnain. fra 1536 blir Norge Danmarks et @vuolglass *gulolašriikan.
-
-S Duogáš
-R Kortfatta historikk
-M Bakgrunnen
-
-S Sámegiela hupmanguovlu gokčá árbevirolaččat stuora oasi Norggas, Ruoŧas, Suomas ja Ruoššas, Hedmark fylkka davimus guovlluin Norggas ja Kopparberg leanas Ruoŧas, 150-300 km govda avádahkan davás ja nuorttas gitta Guoládatnjárgga nuorttamus guovlluide. 
-R Det samiske språkområdet strekker seg tradisjonelt over deler av Norge, Sverige, Finland og Russland, fra de nordlige deler av Hedmark fylke i Norge og Kopparbergs län i Sverige i en 150-300 km bred sone nordover og østover til de østlige deler av Kolahalvøya. 
-M Samisk snakkende området dekker tradisjonelt den store delen i Norge, i Sverige, i Finland og Russland, Hedmarks fylkes et @davvi på områdene i Norge og Kopparbergs *leanas i Sverige, 150-300 @km som bred sone nordover og østen fast Kolahalvøyas @nuorta til områdene. 
-
-S Giellaguovlu ii leat oktilis, muhto dan sáhttá juohkit logi giellajovkui.
-R Språkområdet er ikke enhetlig, men kan deles inn i ti hoveddialekter.
-M Språkområdet er ikke *oktilis, men han kan det dele ti til språkgruppen.
-
-S Sáme- ja suomagiela fuolkevuohta lei čielggas juo 1600-logus. 
-R Slektskapet mellom samisk og finsk var relativt klart allerede på 1600-tallet. 
-M Samens og finsken *fuolkevuohta var klart allerede @1600- et lesestoff. 
-
-S Suoma-ugralaš gielaid historjjálaš ovdáneami birra sáhttá čilget giellamuora bokte.
-R Den historiske utvikling fram til de uralske språk i dag forklares med et slektskapstre med antydning til tidsangivelser.
-M *Suoma språkenes om den historiske utviklingen kan han forklare via språktreet.
-
-S Vaikko vel sámegielagat ásset oalle biđgolaga, erenoamážit lullin ja oarjin, de lea sámegiela guovlu čoahkis nu ahte siidaguoibmesuopmanat juohke sajis ipmirdit nubbi nuppi. li gávdno duođalaš (absoluhtalaš) gielalaš rádji .
-R Selv om de samisktalende til dels bor svært spredt, spesielt i sør og vest, henger det samiske språkområdet sammen på den måten at nabodialektene overalt er gjensidig forståelige, og det finnes ingen absolutt språklig grense.
-M Selv om enda bor *sámegielagat ganske *biđgolaga, spesielt som sør og vest, så det er samisk området *čoahkis slik at nabostemmene på hvert sted forstår de @nubbi @nubbi. *li #finne alvorlig (*absoluhtalaš) *gielalaš grensen .
-
-S Davvisámegiela dilli
-R Situasjonen til nordsamisk
-M Nordsamisks forhold
-
-S Davvisámegiella lea stuorimus giellajoavku, man hupmet birrasiid 25 000 olbmo Norggas. 
-R Nordsamisk er den største samiske språkgruppen og snakkes av omtrent 25 000 personer i Norge. 
-M Nordsamisk er den største språkgruppen, som de snakker miljø 25 000 mennesker i Norge. 
-
-S Lea váttis dadjat man ollu davvisápmelaččat leat geat eai huma sámegiela. 
-R Det er vanskelig å gi et tall for hvor mange nordsamer som ikke snakker samisk. 
-M Det er vanskelig å si som #mange  samene være som ikke snakker samisk. 
-
-S Davvisámegiela hupmet eanas Finnmárkku ja Romssa fylkkain, ja Dielddanuori ja Evenášši suohkaniin Nordlandas. 
-R Nordsamisk snakkes hovedsaklig i Finnmark og Troms fylker, og i kommunene Tjeldsund og Evenes i Nordland. 
-M De snakker nordsamisk #de fleste Finnmarks og på Tromsøs fylker, og Tjeldsunds og på Evenes' kommuner i Nordland. 
-
-S Sámi giellalávdegoddi ja Girko- ja oahpahusdepartemeanta dohkkehedje dálá davvisámegiela čállinvuogi 1979:s. 
-R Samisk språknemnd og Kirke- og utdanningsdepartementet godkjente dagens nordsamiske rettskriving i 1979. 
-M Samelands språkkomite og kirke og undervisningsdepartementet godtok nåtidig nordsamisks skrivende måten 1979. 
-
-S Davvisámegielagiid gielladilli lea arvat buoret go oarjel- ja julevsámegielaid dilli. 
-R Språksituasjonen for nordsamisk er mye bedre enn for sør- og lulesamisk. 
-M *Davvisámegielagiid språkforholdet er å våge bedre enn *oarjel- og lulesamiskers forhold. 
-
-S Leat eanebut geat hupmet davvisámegiela, ja dasa lassin gullet buot sámegiela hálddašanguovllu suohkanat ja fylkkagielddat davvisámegiela guvlui. 
-R Det er flere som snakker språket, og i tillegg er alle kommunene og fylkeskommunene som i dag er med i forvaltningsområdet for samisk språk lokalisert innenfor det nordsamiske språkområdet. 
-M Være mer som snakker nordsamisk, og i tillegg hører de all samisk forvaltningsområdets kommuner og fylkeskommuner nordsamisk til området. 
-
-S Dat mearkkaša ahte sis leat eambbo rievttit geavahit sámegiela almmolaš oktavuođain, ja maiddái oažžut oahpu sámegielas. 
-R Det betyr at de har flere rettigheter til å benytte samisk språk i offentlige sammenhenger, og også til å få undervisning på samisk. 
-M Det bemerker at de har mye retter de bruker samisk med offentlig kontakt, og også får vi utdanningen på samisk. 
-
-S Vaikko leat ge eanebut geat hupmet davvisámegiela, de manná aŋkke davvisámegiella maid maŋos. 
-R Selv om det er flere som snakker nordsamisk, er det en tilbakegang også i det nordsamiske språket. 
-M Selv om de er også mer som snakker nordsamisk, så han drar likevel nordsamisk også bakover. 
-
-S Sátneriggodat ja giellamáhttu unnu, erenoamážit nuorat gearddis. 
-R Ordforråd og språkkunnskaper blir stadig mindre, spesielt hos den yngre generasjon. 
-M Ordforrådet og språkkunnskapen minsker, spesielt ungt på gangen. 
-
-S Guovlluin gos sámegiella lea nanus leat ollugat geat eai leat diđolaččat gielaset ektui. 
-R I områder hvor samisk står sterkt er mange ikke bevisste i sin språkbruk. 
-M På områdene hvor er samisk solid være @ollugat som ikke er *diđolaččat mot språket. 
-
-S Sii atnet ollu dárogielsániid ja dárogiella báidná sámegiel cealkkastruktuvrra. 
-R De bruker mange norske ord og påvirkes av norsk setningsstruktur. 
-M De bruker mange *dárogielsániid og norsk påvirker same @giel setningstrukturen. 
-
-S Vaikko ollugat máhttet sámegiela dáin guovlluin, de aŋkke oidno sámegiella hui unnán. 
-R Selv om mange i disse områdene behersker samisk, er språket veldig lite synlig. 
-M Selv om @ollugat kan samisk på disse områdene, så likevel sees samisk svært lite. 
-
-S Sámedikki mielas livččii dehálaš oččodit olbmuide diđolašvuođa ja ipmárdusa ahte sin giella lea áitojuvvon ja sáhttá jávkat. 
-R Sametinget mener det er viktig at folk blir bevisste og utviser forståelse for at deres språk er truet, og kan forsvinne. 
-M i Sametingets oppfatning kan det være viktig å prøve å gi folk bevisstheten og forståelsen at deres språk er truet og han kan forsvinne. 
-
-S Eará davvisámegielguovlluin lea sámegiella heajut dilis. 
-R I andre nordsamiske språkområder står det samiske språket svakt. 
-M Annet *davvisámegielguovlluin er samisk på det dårligere forholdet. 
-
-S Ollugat leat massán sámegiela ja danne lea olbmuin eambbo diđolašvuohta sámegiela ektui. 
-R Mange har mistet samisken og folk er derfor mer bevisste i forhold til samisken. 
-M @Ollugat har mistet samisk og derfor er det på folk den mye bevisstheten mot samisk. 
-
-S Dain guovlluin lea ge dehálaš oažžut johtui giellarevitaliseren-, vitaliseren- ja seailluhandoaimmaid. 
-R I disse områdene er det viktig å få i gang språkrevitaliserings-, -vitaliserings- og -bevaringstiltak. 
-M På de områdene er det også viktig få til gang språkrevitaliserende, vitaliserende og det forvare oppgaver. 
-
-S Eanet ja eanet olbmot háliidit oahppat sámegiela. 
-R Stadig flere ønsker å lære seg samisk språk. 
-M Mye og mer folk vil lære samisk. 
-
-S Buot davvisámiguovlluin lea váttis gávdnat sámegielkurssaid álggahalliide. 
-R Overalt i de nordsamiske områdene er det vanskelig å finne begynnerkurs på nordsamisk
-M Alle  på sameområdene er det vanskelig å finne samiskkurs *álggahalliide. 
-
-S Guovlluin gos sámegiella ii leat nanus ja gos unnán nuorra olbmot máhttet sámegiela, lea váttis oažžut sámegielat bargiid iešguđetlágán virggiide. 
-R I områder hvor samisk språk ikke står sterkt og hvor få unge kan samisk, er det vanskelig å rekruttere samisktalende til ulike stillinger. 
-M På områdene hvor ikke samisk er solid og hvor kan @unnán unge folk samisk, det er vanskelig få samisker arbeidere til de forskjellige stillingene. 
-
-S Dát čuohcá eanemus mánáide ja nuoraide geat áiggošedje oahppat sámegiela ja boarrásiidda geat eai máhte dárogiela. 
-R Dette går mest ut over barn og unge som gjerne vil lære samisk, og eldre som ikke kan norsk. 
-M Denne erfarer til de meste barnene og ungdommene som kan skulle lære samisk og @boaris som ikke kan norsk. 
-
-S Mánáidgárdejagis 2003/04 leat oktiibuot 815 davvisámegielat máná mánáidgárddiin. 
-R I barnehageåret 2003/04 er det tilsammen 815 nordsamisktalende barn i barnehager. 
-M På barnehageåret 2003/04 er tilsammen 815 nordsamisks barns med en barnehage. 
-
-S Dát leat juohkásan 45 mánáddgárdái ja 71 ossodahkii.
-R Disse er fordelt på 45 barnehager og 71 avdelinger.
-M Disse har fordelt seg 45 *mánáddgárdái og til 71 andelenes.
-
-S Skuvlajagi 2002/03 ledje 2401 oahppi vuođđoskuvllas geat ožžo oahpu davvisámegielas. 
-R Skoleåret 2002/03 var det 2401 elever i grunnskolen som fikk opplæring i nordsamisk. 
-M Skoleåret 2002/03 var på 2401 elevs grunnskole som fikk utdanningen på nordsamisk. 
-
-S Dát lohku lea sturron jagis jahkái; gč. tabealla:
-R Dette tallet har økt fra år til år, se tabell:
-M Dette tallet har blitt stort på året til året; et @gč tabellens:
-
-S Ohppiidlohku geat vuođđoskuvllas ožžo sámegieloahpu
-R Antall elever i grunnskolen som fikk opplæring i samisk
-M De lærer tallet som på grunnskolen fikk *sámegieloahpu
-
-S 	91/92	94/95	97/98	99/00	02/03
-R 	91/92	94/95	97/98	99/00	02/03
-M 	91/92 94	/95 97	/98 99	/00 02	/03
-
-S Sámegiella 1. giellan	654	772	875	950	986
-R Samisk som førstespråk	654	772	875	950	986
-M Samisk 1. 654 772 875 950 986 som	språk				
-
-S Sámegiella 2. giellan	644	831	845	711	674
-R Samisk som andrespråk	644	831	845	711	674
-M Samisk 2. 644 831 845 711 674 som	språk				
-
-S Sámegiella válljenfága	76		5	5	
-R Samisk som valgfag	76		5	5	
-M Samisk valgfagets	76 5 5				
-
-S Sámegiella ja kultuvra 			264	530	741
-R Samisk språk og kultur 			264	530	741
-M Samisk og kultur 			264 530 741		
-
-S Oktiibuot	1374	1603	1989	2196	2401
-R Totalt	1374	1603	1989	2196	2401
-M Tilsammen	1374 1603 1989 2196 2401				
-
-S Joatkkaskuvllas ii leat ohppiidlohku davvisámegiela oahpahusas rievdan namuhan veara maŋemus logi jagis. 
-R Elevtallet som får opplæring i samisk språk på videregående skole har ikke endret seg mye i løpet av de siste 10 årene. 
-M Videregående skolen han er ikke de lærer tallet på nordsamisks undervisning forandret seg nevne verdt sist på ti årenes. 
-
-S Leat čađat leamaš birrasii 400-450 oahppi geain lea leamaš davvisámegiel oahpahus juogo vuosttašgiellan, 2 giellan, B-giellan, C-giellan dahje válljenfágan.
-R Det har i hele denne perioden vært mellom 400 og 450 elever som har hatt nordsamisk fordelt på samisk som 1. språk, samisk som 2. språk, B-språk, C-språk og valgfag.
-M De har alltid vært til miljøet 400-450 elever som det har vært  same @giel undervisning hvor allerede som førstespråk, som 2 språk, Et #<ind> som språk, Et #<ind> som språk eller valgfag.
-
-S Allaskuvlla- ja universitehtadásis sáhttá davvisámegiela lohkat Sámi allaskuvllas ja Romssa universitehtas. 
-R På høgskole og universitetsnivå kan man studere nordsamisk språk ved Samisk høgskole i Kautokeino og ved Universitetet i Tromsø. 
-M Høyskolens og universitetsnivået han kan lese nordsamisk på Samelands høyskole og Tromsøs universitet. 
-
-S Eanas studeanttat lohket sámegiela vuođđofága (sámegiella I ja II), muhto leat maid ollu studeanttat geat lohket dávvisámegiela lohkangelbbolašvuođa vuođđokurssa. 
-R De fleste leser samisk grunnfag (samisk I og II), men det er også mange som tar samisk semesteremne. 
-M De fleste studenter leser samisks grunnfag (samisk @I og @II), men de er også mange studenter som leser *dávvisámegiela studiekompetansens @vuođđokursa. 
-
-S Allaskuvla ja universitehta lágidit maid gáiddusoahpahusa.
-R Høgskolen og universitetet driver også med desentralisert opplæring i samisk. 
-M Høyskolen og universitetet driver også fjernundervisning.
+M Norge *heajusnuvvá politiske og økonomiskere @1300- med tallet, unntatt annen *svartedauden døende på grunn av sykdommen, og han blir alltid dårlig som del disse *uniuvnnain. fra 1536 blir Norge Danmarks et @vuolglass *gulolašriikan.
 
 S Stáhtaguossástallan Lulli-Afrihkkás.
 R Statsbesøk til Sør-Afrika.
@@ -1292,7 +1112,7 @@ M Kongeparet han reiser på teten på delegasjonen hvor de er med *norgga de led
 
 S Presideanta Jacob Zuma ja roavvá Zuma sávaiga Gonagassii ja Dronnegii buresboahtima allaáiggalaš buresboahtinseremoniijain Union Buildings nammasaš báikkis. 
 R Kongen og Dronningen ble ønsket velkommen av President Jacob Zuma og fru Zuma med en høytidelig velkomstseremoni i Union Buildings. 
-M Presidenten Jacob *Zuma og *roavvá *Zuma ønsket til Kongen og dronningen velkommen *allaáiggalaš på #velkommenseremoniene *Union *Buildings *nammasaš på stedet. 
+M Presidenten Jacob *Zuma og *roavvá *Zuma ønsket til Kongen og dronningen velkommen *allaáiggalaš ønskende velkommen på seremoniene *Union *Buildings *nammasaš på stedet. 
 
 S Dán báikkis leat ráđđehusa ja Presideantta kántuvrrat, ja dakko birrasis lea viiddis sadji gos leat ollu muitomearkkat. 
 R Stedet huser regjeringen og Presidentens kontorer, og er omgitt av et større anlegg med en rekke minnesmerker. 
@@ -1304,7 +1124,7 @@ M Her drives han også de nye presidentenes en ansettelsesseremoni.
 
 S Buresboahtinseremoniija maŋŋá beasai Gonagasbárra ságastallat Presideantabárain, ja Norgga ja Lulli-Afrihkká sáttagottit lágidedje maid oktasaš čoahkkimiid. 
 R Velkomstseremonien ble etterfulgt av bilaterale samtaler mellom Kongeparet og Presidentparet, og møter mellom den norske og den Sør-Afrikanske delegasjonen. 
-M etter #Velkommenseremonien fikk Kongeparet snakke sammen På presidentparene, og Norge og Sør-Afrika drev delegasjonene også felles møter. 
+M Ønskende velkommen etter seremonien fikk Kongeparet snakke sammen På presidentparene, og Norge og Sør-Afrika drev delegasjonene også felles møter. 
 
 S Maŋŋelaš seamma beaivvi čoahkkimastii Gonagasbárra várrepresideanttain Kgalema Motlanthe.
 R Senere i dag vil Kongeparet også med visepresident Kgalema Motlanthe.
@@ -1319,12 +1139,12 @@ R Senere foretok Kong Harald den offisielle åpningen av seminaret ”States in 
 M etter Det åpnet han Kong Harald offentlig seminaret ”*States ikke *Fragile *Environments” på Pretorias universitet. 
 
 S Okta váldoságastalliin dán semináras lei olgoritministtar Jonas Gahr Støre. 
-R Utenriksminister Jonas Gahr Støre var blant hovedtalerne på seminaret, som fokuserte på utfordringene sårbare stater representerer for fred og sikkerhet i Afrika. 
-M Et på hovedinnlederne hadde dette seminar en utenriksminister på Jon Gahr Støre. 
+R En av hovedtalerne på dette seminaret var utenriksminister Jonas Gahr Støre.
+M Et på hovedinnlederne dette seminar hadde en utenriksminister på Jona Gahr Støre. 
 
 S Rahpansártnistis deattuhii Gonagas Harald earet eará Norgga ja Lulli-Afrihkká buori ovttasbarggu áššiin mat gusket antipersonellmiinnaid gieldimii.
 R I åpningstalen sin, understreket Kong Harald blant annet det gode samarbeidet mellom Sør-Afrika og Norge rundt avtalen som forbyr bruken av antipersonellminer
-M På åpningstalen betonte det Kong Harald unntatt den andre Norge og Sør-Afrika bra samarbeidet med en sak som berører *antipersonellmiinnaid forbyende.
+M På åpningstalen betonte Kong Harald unntatt den andre Norge og Sør-Afrika bra samarbeidet med en sak som berører *antipersonellmiinnaid forbyende.
 
 S Oahpisteapmi Freedom Parkas.
 R Omvisning i Freedom Park.
@@ -1332,7 +1152,7 @@ M *Oahpisteapmi *Freedom i #Park.
 
 S Freedom Park – Friddjavuođapárka – lea alážis Pretoria gávpogis. 
 R Freedom Park – Frihetsparken – ligger på et høydedrag i Pretoria. 
-M *Freedom #Park – En fripark – er på høyden på Pretorias by. 
+M *Freedom #Park – En fripark – er høyden Pretoria i byen. 
 
 S Párka huksejuvvui dainna áigumušain ahte symbolalaččat soabadit ovdalaš riidduin, ja dat rahppui 2007:s. 
 R Parken ble bygget ut fra et ønske om symbolsk forsoning med tidligere konflikter, og åpnet i 2007. 
@@ -1348,7 +1168,7 @@ M *Oahpisteaddjit viste Kong Harald og #Dronning Sonja denne parken, og de to fi
 
 S Dán lihtu ulbmil lea addit nuoraide vejolašvuođa ovddidit iežaset návccaid musihkain ja dánsumiin, ja lihtus leamaš ovttasdoaibma Norges musikkorpsforbunddain juo 2001 rájes. 
 R Forbundet har som mål å gi unge muligheter til å utvikle sine evner gjennom musikk og dans, og har hatt et partnerskap med Norges musikkorpsforbund siden 2001. 
-M Denne alliansens mål er gir til ungdommene muligheten fremme med deres evners musikk og dans, og alliansen vært samhandlingsaktiviteten i Norge *musikkorpsforbunddain allerede 2001 fra. 
+M Denne alliansens mål er å gi til ungdommene muligheten fremme med deres evners musikk og dans, og alliansen vært samhandlingsaktiviteten i Norge *musikkorpsforbunddain allerede 2001 fra. 
 
 S Lonohallanprográmmain Bands Crossing Borders leat Lulli-Afrihkká korpsamiellahtut studeren ja bargan ovtta jagi Norggas, ja norgalaččat leat leamaš ovtta jagi oahpahusas Lulli-Afrihkkás.
 R Gjennom utvekslingsprogrammet Bands Crossing Borders har sør-afrikanske korpsmedlemmer studert og jobbet et år i Norge, mens nordmenn har tilbrakt et år med undervisning i Sør-Afrika.
@@ -1361,654 +1181,6 @@ M Offentlig *baŋkeahtta.
 S Eahkes leaba Gonagas ja Dronnet Presideanta Zuma ja roavvá Zumas guossit almmolaš baŋkeahtas mii lágiduvvo Presidential Guest House.
 R I kveld er Kongen og Dronningen President Zuma og fru Zumas gjester ved en offisiell bankett i Presidential Guest House.
 M Om kvelden er Kongen og Dronning En president *Zuma og *roavvá *Zumas gjester offentlig *baŋkeahtas hva drives *Presidential *Guest *House.
-
-S Jos válddát 60 oahppočuoggá sámegielas, de sáhttá dat addit dutnje 60 000 ruvnnu.
-R 60 studiepoeng med samisk i fagkretsen kan gi 60 000 kroner.
-M Hvis du tar 60 studiepoeng på samisk, så kan det gi 60 000 kroner til deg.
-
-S  - Šatta ovdaskuvlaoahpaheaddjin dahje vuođđoskuvlaoahpaheaddjin! Dus lea vahkku áigi čállit ohcama -  ja oažžut vejolašvuođa álgit ohppui mii dáhkida dutnje erenoamáš buori ja mávssolaš barggu boahtteáiggis. Dán hástalusa addá sámediggeráđi lahttu Marianne Balto.
-R -Bli førskolelærer eller grunnskolelærer! Du har en uke på deg til å skrive søknaden - og få muligheten til å starte på en utdanning som garantert vil gi deg en fantastisk flott og givende jobb i framtida. Oppfordringen kommer fra medlem i sametingsrådet Marianne Balto.
-M  -  Bli som førskolelærer eller grunnskolelærer! Du har ukens tid skrive søknaden -  og vi får muligheten begynne til utdanningen som bekrefter til deg spesielt bra og det viktige arbeidet på fremtiden. Han gir denne utfordringen sametingsrådets medlem Marianne Balto.
-
-S Ohcanáigemearri alit ohppui lea cuoŋománu 15. b.
-R Søknadsfristen for høyere utdanning går ut 15. april.
-M Ohcan fristen til den høyere utdanningen er det 15. april
-
-S Sámedikkis leat sierra stipeanddat erenoamážit dutnje jos válljet ovdaskuvla- dahje vuođđoskuvla­oahpaheaddji oahpu sámegielain. Don sáhtát oažžut gitta 30 000 ru rádjai oahpu ovddas mii addá gaskal 30 ja 60 oahppočuoggá, ja gitta 60 000 ru rádjai oahpus mii addá 60 oahppočuoggá dahje eanet.
-R Sametinget har egne stipend spesielt for deg dersom du velger førskole- eller grunnskolelærerstudier med samisk i fagkretsen. Det er mulig å få inntil 30 000 kroner for studier mellom 30 og 60 studiepoeng, og inntil 60 000 kroner for studier på 60 eller flere studiepoeng.
-M Sametinget har særskilte stipend spesielt til deg hvis du velger førskolen eller grunnskolen­den undervisende utdanningen med samisk. Du kan få fast 30 000 til den @ru for utdanningen som gir mellom 30 og 60 #studiepoeng, og fast 60 000 til den @ru utdanningen som gir 60 studiepoeng eller mye.
-
-S - Vállježat dal šaddat ovdaskuvlaoahpaheaddjin dahje oahpaheaddjin, de leat deaŧalaš resursa sámi giella ja kultuvra ovddidanbarggus, dadjá ráđđelahttu Balto.
-R - Enten du velger å utdanne deg til førskolelærer eller lærer vil du være en viktig ressurs i arbeidet med å videreføre samisk språk og kultur, sier rådsmedlem Balto.
-M - Vi velger da nå å bli som førskolelærer eller lærer, så å være den viktige ressursen samens språk og kultur det fremme på arbeidet, sier rådmedlemmet Balto.
-
-S Sámi allaskuvla lea okta dain allaskuvllain mii čavčča rájes fállá oahpu gollevirggis. Sámi allaskuvla lea áidna allaskuvla Norggas gos oahpahus lea sámegillii. Doppe lea dus erenoamáš vejolašvuohta váldit sámi vuođđoskuvlaoahpaheaddjioahpu 1. - 7. cehkiin ja sámi ovdaskuvlaoahpu.
-R Sámi allaskuvla er en av høgskolene som i høst tilbyr utdanning innen drømmejobben. Sámi allaskuvla er den eneste høgskolen i Norge der du kan få denne utdanningen på samisk. Her har du en unik mulighet til å ta samisk grunnskolelærerutdanning 1. - 7. trinn og samisk førskolelærerutdanning. 
-M Samelands høyskole er en på de med en høyskole som fra høsten tilbyr han utdanningen på gullstillingen. Samelands høyskole er en eneste høyskole i Norge hvor er undervisning på samisk. Der borte er det på deg den spesielle muligheten ta samens grunnskolelærer utdanningen 1. @- 7 på fasene og samens førskoleutdanning.
-
-S Stáhta loatnakássas lea dasto jagi 2010 rájes ođđa loatnasihkkunortnet gitta 50 000 ru rádjai jos válddát 60 oahppočuoggá sámegielas oassin oahpaheaddjioahpus.
-R Lånekassen har dessuten fra 2010 en ny ordning for sletting av gjeld på inntil kr. 50 000 dersom du tar 60 studiepoeng i samisk språk som del av lærerutdanningen.
-M På statens lånkasse er det deretter året 2010 fra det #ny lånet tørkende #skipan fast 50 000 til de @ru hvis du tar 60 studiepoeng på samisk som del på lærerutdanningen.
-
-S  Gáldu: Sámediggi
-R Kilde: Sametinget
-M  En kilde: Sametinget
-
-S Máhtte boahtá. 
-R Mattis kommer.
-M Máhtte kommer. 
-
-S Áhčči lea oastán munnje sabehiid. 
-R Far har kjøpt ski til meg.
-M Far har kjøpt ski til meg. 
-
-S Mun láven árrat lihkkat. 
-R Jeg pleier å stå opp tidlig.
-M Jeg pleier stå tidlig opp. 
-
-S Vuolgit lea suohtas. 
-R Å reise er morsomt.
-M Å Reise er morsomt. 
-
-S Ahte gielistii lea vissis. 
-R At han lyver, det er sikkert.
-M At han løy det er sikkert. 
-
-S Máhtes lea beana. 
-R Mattis har en hund.
-M Máhtte har en hund. 
-
-S Jávregáttis leat guokte olbmo. 
-R Ved elvebredden er det to mennesker.
-M i #Jávregáddi er de to mennesker. 
-
-S Ikte lei hui buolaš. 
-R I går var det sterk frost.
-M I går var det svært @buolaš. 
-
-S Lea dušše okta Ipmil. 
-R Det finnes bare en Gud.
-M Det er bare en Ipmil. 
-
-S Dán báhkis šaddá čáppa gohppu. 
-R Av denne rirkula blir det en fin kopp.
-M På denne rirkulen blir han en pen kopp. 
-
-S Mu vuovssihii. 
-R Jeg måtte spy.
-M Det lot meg spy. 
-
-S Min ii leat veara dohko vuolgit. 
-R Det er ikke verdt at vi drar dit.
-M Oss han er ikke verdt dit å reise. 
-
-S Arvá. 
-R Det regner.
-M Det regner. 
-
-S Diet lea gusto ávkkálaš. 
-R Jeg skjønner at det er nyttig.
-M Dette er antakeligvis nyttig. 
-
-S Do doppe boahtá áhčči. 
-R Se, der borte kommer far.
-M Der borte der borte kommer far. 
-
-S Son lea boaris. 
-R Han er gammel.
-M Han er gammel. 
-
-S Láiki bargagoahtá go beaivváš luoitáda. 
-R Den late begynner å arbeide når sola går ned.
-M Lat han begynner å arbeide når solen *luoitáda. 
-
-S Eai guovttis ge nagot loktet dan geađggi. 
-R Ikke to personer engang klarer å løfte den steinen.
-M Ikke #to personer også klarer løfte den steinen. 
-
-S Eai guovttisge nagot loktet dan geađggi. 
-R Ikke to personer engang klarer å løfte den steinen.
-M De ikke to også klarer løfte den steinen. 
-
-S Lea hávski oažžut reivve. 
-R Det er morsomt å få brev.
-M Det er morsom å få brev. 
-
-S Máhtes leat ođđa sabehat. 
-R Mattis har nye ski.
-M Máhtte har nye ski. 
-
-S Min bussás leat alit čalmmit. 
-R Katta vår har blå øyne.
-M Vår katt har blåe øyne. 
-
-S Mus lea oaivebávččas. 
-R Jeg har hodepine.
-M Jeg har en hodepine. 
-
-S Mánás orru borranmiella. 
-R Ungen synes å være sulten.
-M På barnet bor matlyst. 
-
-S Mis lea cahkkehit dola. 
-R Vi må tenne bål.
-M Vi må tenne bålet. 
-
-S Mis lea biergu vuoššat. 
-R Vi har kjøtt til å koke.
-M Vi har kjøtt å koke. 
-
-S Ellii šattai hoahppu. 
-R Ellen fikk det travelt.
-M til Elle ble en hast. 
-
-S Dá livčče dutnje sabehat. 
-R Her er det et par ski til deg.
-M Her kan de være til deg ski. 
-
-S Mánás gollot gieđat. 
-R Ungen har kalde hender.
-M Et barn fryser hender. 
-
-S Sus jámii áhčči. 
-R Faren hans døde.
-M Han døde far. 
-
-S Jávregáttis ledje guokte olbmá. 
-R Ved innsjøen var det to menn.
-M i #Jávregáddi var de to menn. 
-
-S Dán jagi eai leat luopmánat. 
-R I år finnes det ikke molter.
-M Dette året ikke de er molter. 
-
-S Mu vuovssihišgođii. 
-R Jeg begynte å spy.
-M Min begynte det å la spy. 
-
-S Mu gasttiha. 
-R Jeg må nyse.
-M Min *gasttiha. 
-
-S Mu ii leat veara dohko vuolgit. 
-R Det er ikke verdt at jeg går dit.
-M Meg han er ikke verdt dit å reise. 
-
-S Mii ávkkiid lea min doppe johtit? 
-R Hva hjelper det oss å ferdes der?
-M Hva nytter det er oss der borte å bevege seg? 
-
-S Mun oidnen olu olbmuid. 
-R Jeg så mange mennesker.
-M Jeg så mange folk. 
-
-S Oidnen olu olbmuid. 
-R Jeg så mange mennesker.
-M Jeg så mange folk. 
-
-S Dál dii fertebehtet geargat. 
-R Nå må dere bli ferdige.
-M Nå må dere bli ferdige. 
-
-S Dál fertebehtet geargat. 
-R Nå må dere bli ferdige.
-M Nå må dere bli ferdige. 
-
-S Dan gal juohkehaš fuobmá dakkaviđe. 
-R Det skjønner enhver straks.
-M Det vel oppdager @juohkehaš *dakkaviđe. 
-
-S Mánná lei balus go galggai skuvlii. 
-R Barnet var redd da det skulle til skolen.
-M Barnet var på frykten da han skulle til skolen. 
-
-S Báhppa lei juohkán guovtte sadjái osiid. 
-R Presten hadde delt porsjonene i to grupper.
-M Presten hadde delt deler til to stedenes. 
-
-S Bártniide lei juohkán stuoribuš osiid go nieiddaide. 
-R Guttene hadde han tildelt noe større porsjoner enn jentene.
-M Til guttene hadde det delt større deler enn til jentene. 
-
-S De álge doaivut ahte sis lea jápmindávda. 
-R Så begynte de å tro at de hadde en dødelig sykdom.
-M Så begynte de tro at de har en dødssykdom. 
-
-S De álge doaivut ahte lea jápmindávda. 
-R Så begynte de å tro at de hadde en dødelig sykdom.
-M Så begynte de tro at det er en dødssykdom. 
-
-S Eat mii sáhte vuolgit go mis ii leat dilli. 
-R Vi kan ikke dra fordi vi ikke har tid.
-M Ikke vi kan reise når vi ikke har et forhold. 
-
-S Eat mii sáhte vuolgit go ii leat dilli. 
-R Vi kan ikke dra fordi vi ikke har tid.
-M Ikke vi kan reise når han ikke er et forhold. 
-
-S Lei miessemánu álgu. 
-R Det var i begynnelsen av mai.
-M Det var mais begynnelse. 
-
-S Lei soahti. 
-R Det var krig.
-M Det var krig. 
-
-S Sevnnjodii. 
-R Det ble mørkt.
-M Det mørknet. 
-
-S Bijai muohttaga. 
-R Det snødde.
-M Han satte snø. 
-
-S Arvigođii. 
-R Det begynte å regne.
-M Det Begynte å regne. 
-
-S Lea buolaš. 
-R Det er frost.
-M Det er @buolaš. 
-
-S Boađán. 
-R Jeg kommer.
-M Jeg kommer. 
-
-S Áddjá boahtá. 
-R Bestefar kommer.
-M Bestefar kommer. 
-
-S Jeakkis leat luopmánat. 
-R På myra er det molter.
-M På myren er de molter. 
-
-S Mu vuovssiha. 
-R Jeg må spy.
-M Det lar meg spy. 
-
-S Áddjá lea boaris. 
-R Bestefar er gammel.
-M Bestefar er gammel. 
-
-S Moraš šattai illun. 
-R Sorg ble til glede.
-M Sorgen ble som glede. 
-
-S Áhkku ii leat dáppe. 
-R Bestemor er ikke her.
-M Bestemora er ikke her. 
-
-S Goas heajat leat? 
-R Når skal bryllupet være?
-M Når er gjestebudene? 
-
-S Sii eai diehtán ahte Ipmil lea. 
-R De visste ikke at det fantes en Gud.
-M De visste ikke at Ipmil er. 
-
-S Sii eai diehtán ahte mánnu šaddá. 
-R De visste ikke at det var voksende måne.
-M De visste ikke at månen blir. 
-
-S Mus lea biila. 
-R Jeg har en bil.
-M Jeg har en bil. 
-
-S Mun in šaddan vuolgit. 
-R Jeg fikk ikke dra.
-M Jeg ble ikke reise. 
-
-S Mus lea biergu vuoššat. 
-R Jeg har kjøtt til å koke.
-M Jeg har kjøtt å koke. 
-
-S Mus lea viežžat čázi. 
-R Jeg må hente vann.
-M Jeg må hente vann. 
-
-S Mun ferten viežžat čázi. 
-R Jeg må hente vann.
-M Jeg må hente vann. 
-
-S Áddjá lea boahtán. 
-R Bestefar er kommet.
-M Bestefar har kommet. 
-
-S Leago arván diehko? 
-R Har det regnet der?
-M Har det regnet dit til dere? 
-
-S Lea go arván diehko? 
-R Har det regnet der?
-M Har det regnet dit til dere? 
-
-S Biret lea čállime. 
-R Berit holder på å skrive.
-M Biret er i gang med å skrive. 
-
-S Mun lean heaitán borgguheames. 
-R Jeg har sluttet å røyke.
-M Jeg har sluttet å røyke. 
-
-S Biret ii boađe. 
-R Berit kommer ikke.
-M Biret kommer ikke. 
-
-S Maid don čálát ruzat? 
-R Hvorfor skriver du så slurvet og utydelig?
-M Hva du skriver *ruzat? 
-
-S Vuoi surgat dan gándda! 
-R Å nei, denne gutten!
-M *Vuoi sørgelig den gutten! 
-
-S Ustibažžan! 
-R Kjære venn!
-M En venn! 
-
-S Áddjágo duo lea boahtime? 
-R Er det bestefar som kommer der?
-M Bestefar er der borte i gang med å komme? 
-
-S Áddjá go duo lea boahtime? 
-R Er det bestefar som kommer der?
-M #Bestefar er der borte i gang med å komme? 
-
-S Áddjá fal. 
-R Ja, det er bestefar.
-M Bestefar *fal. 
-
-S Gos don dál boađát? 
-R Hvorfra kommer du nå?
-M du Hvor kommer nå? 
-
-S Siiddas. 
-R Fra reinbyen.
-M På hjemmet. 
-
-S Ádjásgo lea ođđa fanas? 
-R Er det bestefar som har en ny båt?
-M Bestefar har en ny båt? 
-
-S Ádjás go lea ođđa fanas? 
-R Er det bestefar som har en ny båt?
-M #Bestefar er en ny båt? 
-
-S Doppehan álo somá gos nu olu olbmot. 
-R Der er det alltid så morsomt hvor det er så mye folk.
-M Der borte jo alltid morsom hvor slik mange folk. 
-
-S Vare mun doppe dahje son dáppe! 
-R Gid jeg var der eller hun her!
-M Om bare jeg der borte eller han her! 
-
-S Biera, de sabehiid! 
-R Per, skynd deg nå og ta skiene!
-M Biera, så skiene! 
-
-S Gosa don dál? 
-R Hvor skal du nå?
-M Hvor du nå? 
-
-S Maid don dál? 
-R Hva skal du nå?
-M Også du nå? 
-
-S Máret lea oahpaheaddji. 
-R Marit er lærer.
-M Máret er en lærer. 
-
-S Mii leimmet viđas. 
-R Vi var fem personer.
-M Vi var en #fem personer. 
-
-S Dat orui buorre fanas. 
-R Det syntes å være en bra båt.
-M Det bodde bra en båt. 
-
-S Leatgo hilbadat mánát? 
-R Er barna slemme?
-M Er de viltrere barn? 
-
-S Leat go hilbadat mánát? 
-R Er barna slemme?
-M Er de viltre barn? 
-
-S Son šaddá buorre oahpaheaddji. 
-R Han blir en bra lærer.
-M Hun blir bra en lærer. 
-
-S Din viessu šattai oppa stuoris. 
-R Huset deres ble temmelig stort.
-M Deres hus ble hele stort. 
-
-S Doppe ledje ollu olbmot. 
-R Der var det mange mennesker.
-M Der borte var mange folk. 
-
-S Ikte lei duorastat. 
-R I går var det torsdag.
-M I går var en torsdag. 
-
-S Dál ii oro šat bávččas. 
-R Nå er det ikke vondt lenger.
-M Nå ikke hun bor mer vondt. 
-
-S Eai lean láibbit. 
-R Det fantes ikke brød.
-M De vært ikke brød. 
-
-S Gean dat lea? 
-R Hvem sin er det?
-M Hvem er det? 
-
-S Dat lea áhči. 
-R Det er fars.
-M Det er fars. 
-
-S Dan guovtto dat leat. 
-R Det tilhører de to.
-M Dets *guovtto de er. 
-
-S Miehkki lea guovtte ávjui. 
-R Sverdet er tveegget.
-M Sverdet er til to eggenes. 
-
-S Dat fiilu lea golmma borrái. 
-R Fila er trekantet.
-M Den filen er til tre kantenes. 
-
-S Gean láhkai dat lea? 
-R Hvem er han lik?
-M Hvem *láhkai det er? 
-
-S Dat lea áhčis láhkai. 
-R Han er lik sin far.
-M Det er far *láhkai. 
-
-S Son lea taksivuoddjin Oslos. 
-R Han er taxisjåfør i Oslo
-M Han er drosjesjåfør i Oslo. 
-
-S Dál dán jagi son lea oahpaheaddjin. 
-R Nå i år er han lærer.
-M Nå dette året er han lærer. 
-
-S Lásse lea mus reaŋgan. 
-R Lásse er hos meg som dreng.
-M Lásse er på meg som dreng. 
-
-S Dat lei stuora vahágin munnje. 
-R Det var til stor skade for meg.
-M Det var stor skade til meg. 
-
-S Mii dasa lea sivvan? 
-R Hva er grunnen til det?
-M Hva til det er det grunn? 
-
-S Na mii lea sáhkan dohko? 
-R Hva nytt er det derfra?
-M Nå er hva tale dit? 
-
-S Son gohčoduvvui Mihkkalažžan. 
-R Han ble kalt for «Mihkkalaš».
-M Han ble kalt som Mihkkalaš. 
-
-S Moraš jorai illun. 
-R Sorgen ble til glede.
-M Sorgen dreidde som glede. 
-
-S Dat šattai stuora váivin midjiide. 
-R Det ble svært brysomt for oss.
-M Det ble som stort besvær til oss. 
-
-S Niillas válljejuvvui áirrasin. 
-R Nils ble valgt som representant.
-M Niillas ble valgt som representant. 
-
-S Áddjá elii hui boarisin. 
-R Bestefar ble svært gammel.
-M Bestefar levde svært gammel. 
-
-S Gárttaigo divrrasin? 
-R Ble det dyrt?
-M Kom han til å dyr? 
-
-S Maŋemus son šattai buorrin oahpaheaddjin. 
-R Til slutt ble han en god lærer.
-M Sist han ble som bra lærer. 
-
-S Máret beasai dálu eamidin. 
-R Marie ble husmor på gården.
-M Máret fikk som gårdens kone. 
-
-S Ánde bázii leaskan. 
-R Ánde ble enkemann.
-M Ánde ble igjen som enke. 
-
-S Áddjá lei soggái čalmmiid. 
-R Gubben lå vendt mot veggen.
-M Bestefar var *soggái øynenes. 
-
-S Mun lean illávejiid. 
-R Jeg føler meg uvel.
-M Jeg er *illávejiid. 
-
-S Son lea čalbmebeale. 
-R Han er enøyd.
-M Han er øyedelens. 
-
-S Lihtti lea ravddaid dási. 
-R Kjørelet er fullt til randen.
-M Kjørlet er kantenes nivå. 
-
-S Mun lean morrašis. 
-R Jeg er trist.
-M Jeg er på sorgen. 
-
-S Bárdni leai rikkis sogas. 
-R Gutten var av en rik slekt.
-M Gutten var på den rike slekten. 
-
-S Niibi lea stális. 
-R Kniven er av stål.
-M Kniven er på stålet. 
-
-S Áddjá lea ruovttus. 
-R Bestefar er hjemme.
-M Bestefar er hjemme. 
-
-S Čoahkkin lea eahkedis. 
-R Møtet er om kvelden.
-M Møtet er på kvelden. 
-
-S Mánná lea gahperahttá. 
-R Ungen er uten lue.
-M Barnet er *gahperahttá. 
-
-S Diet gal lea beare unnán. 
-R Det der er nok alt for lite.
-M Dette er vel familiesykdommen @unnán. 
-
-S Diet gal lea beare uhccán. 
-R Det der er nok alt for lite.
-M Dette er vel familiesykdommen @uhccán. 
-
-S Uksa galgá leat gitta. 
-R Døra skal være stengt.
-M Døren skal være fast. 
-
-S Dat gal lea boastut. 
-R Det er nok galt.
-M Det er vel galt. 
-
-S Gal diet šattai botnjut. 
-R Det der ble nok skjevt.
-M Vel ble dette *botnjut. 
-
-S Muhtumat ledje vácci ja muhtumat ledje čuoigga. 
-R Noen kom til fots og noen på ski.
-M Noen var gående og noen var gående på ski. 
-
-S Dát ađa lea uhccán vuošša. 
-R Dette margbeinet er for lite kokt.
-M Denne margen er @uhccán kokende. 
-
-S Mun ledjen illáveaje. 
-R Jeg følte meg uvel.
-M Jeg var *illáveaje. 
-
-S Girji lea logakeahttá. 
-R Boka er ulest.
-M Boken er å lese. 
-
-S Mánát leat oažžulat guliid. 
-R Barna er flinke til å få fisk.
-M Barnene er *oažžulat fiskenes. 
-
-S Dain lea fáktemuš juohke balvva. 
-R De må passe på enhver sky.
-M De har å passe hver sky. 
-
-S Buot lei varran. 
-R Alt var tilsølt med blod.
-M Alle var blod. 
-
-S Buot lei varrana. 
-R Alt var tilsølt med blod.
-M Alle var *varrana. 
-
-S Buot lei varranaga. 
-R Alt var tilsølt med blod.
-M Alle var *varranaga. 
-
-S Áddjá veallái buohccin. 
-R Bestefar lå syk.
-M Bestefar lå som en er syk. 
-
-S Makkár vuoigatvuođat dain leat Norgga riikavuložin? 
-R Hvilke rettigheter har de som norske statsborgere?
-M Hvilke rettigheter har de som Norges landunderlag? 
-
-S Gáhkuid son ráhkada hui buriid. 
-R Hun lager svært gode kaker.
-M Kakene han lager svært bra. 
-
-S Mus lea Ánde-máhka mielbargin. 
-R Jeg har min svoger Anders som medarbeider.
-M Jeg har Ándes som medarbeider. 
-
-S Son lea oahpaheaddjin hui čeahppi. 
-R Som lærer er han/hun meget flink.
-M Han er lærer svært flink. 
-
-S Mus leat gieđat nu galbmasat. 
-R Jeg har så kalde hender.
-M Jeg har hender slik kalde. 
-
-S Márehis lea oaivi nu bávččas. 
-R Marit har sterk hodepine.
-M Máret har et hode slik vond. 
 
 S Ruvdnaprinseassa Sonja portreahtta.
 R Portrett av Kronprinsesse Sonja.
@@ -2108,7 +1280,7 @@ M Et møtes *Warholain.
 
 S Majestehta Dronnet lohká ieš ahte su deaivvadeapmi Warholain lei miellalági niehkovásáhus.
 R H.M. Dronningen sier selv om sitt møte med Warhol at det var en surrealistisk opplevelse.
-M Majestetens Dronning han sier selv at hans møtes *Warholain var sinnsmåtens en drømopplevelse.
+M Majesteten Dronning han sier selv at hans møtes *Warholain var sinnsmåtens en drømopplevelse.
 
 S ”Son lei unni ja guoirras, áibbas šovkes olmmái gean vuovttat ledje ártegit stellejuvvon… Son vuostáiválddii min dego gonagas, ja celebre guossit bohte ja manne – dego hoavvabargit.
 R ”Han var liten og tynn, og helt blek med en underlig frisyre… Han tok i mot oss som en konge, og celebre gjester kom og gikk – som i et hoff.
@@ -2144,7 +1316,7 @@ M *Warhol på arbeidene er de ofte mange *eksemplára på et raidets.
 
 S Ja okta dain variánttain bázii dábálaččat Warhol vuorkái.
 R En av variantene havnet som regel i Warhols arkiv.
-M Og en på de variantene ble han igjen vanlig *Warhol på arkivet.
+M Og en på de variantene han ble igjen vanlig *Warhol på arkivet.
 
 S Dán vuorkká sisdoallu šattai maŋit áiggi, dáiddára iežas dáhtu mielde, Andy Warhol Foundation.
 R Innholdet i dette arkivet ble siden, etter kunstnerens eget ønske, etablert som the Andy Warhol Foundation.
@@ -2152,11 +1324,11 @@ M Dette arkivets innhold ble  utsett en tid, kunstneren med sitt ønske, Andys *
 
 S Okta Majestehta Dronnega portreahtain vuvdojuvvui gieskat dieppe.
 R Ett av portrettene av H. M. Dronningen ble nylig solgt derfra.
-M Et på portrettene med Majestetens Dronning han ble solgt nylig derfra.
+M Et Majestetens Dronnings på portrettene han ble solgt nylig derfra.
 
 S Eanas Majestehta Dronnega portreahtat leat dál priváhta opmodat, muhto guokte gova leat almmolaš vuorkkáin dáid ásahusain:Nasjonalmuseet for kunst, arkitektur og design ja Astrup Fearnleys Samlinger.
 R De fleste portrettene av H. M. Dronningen befinner seg i dag i privat eie, mens to eksemplarer er å finne ved henholdsvis Nasjonalmuseet for kunst, arkitektur og design og Astrup Fearnleys Samlinger.
-M #De fleste Majestets Dronnings portrett er nå den private eiendommen, men to bilder er på de offentlige arkivene på disse ordningene:*Nasjonalmuseet *for *kunst, *arkitektur *og *design og Astrups *Fearnleys #Samlinger.
+M De fleste Majestetens Dronnings portrett er nå den private eiendommen, men to bilder er på de offentlige arkivene på disse ordningene:*Nasjonalmuseet *for *kunst, *arkitektur *og *design og Astrups *Fearnleys #Samlinger.
 
 S Materiálat.
 R Materiale.
@@ -2196,11 +1368,11 @@ M Angrepet.
 
 S Cuoŋománu 9. beaivvi ija 1940 lei soahtafanas Blücher jođus Oslovuona guvlui. Ovttas máŋggain eará, smávit fatnasiiguin, láidii Blücher duiska soahteveagaid oaivegávpoga guvlui. Sin bargun lei váldit fáŋgan Gonagasa ja Ráđđehusa, ja nu bágget Norgga johtilit kapituleret.
 R Natt til 9. april 1940 var krysseren Blücher på vei inn Oslofjorden. Sammen med flere andre, mindre skip, førte Blücher tyske tropper mot hovedstaden. Oppdraget var å ta Konge og Regjering til fange, for å tvinge fram en rask norsk kapitulasjon.
-M 9. april en natt 1940 var *soahtafanas *Blücher Oslos fjord på farten til området. Sammen mange annet, med mindre båter, leide *Blücher de tyske hærenes hovedstaden til området. Deres arbeid var pågripere kongen Som fange og Regjeringen, og slik tvinger vi Norge hurtig kapitulere.
+M 9. april en natt 1940 var *soahtafanas *Blücher på farten Oslo fjorden til området. Sammen mange annet, med mindre båter, leide *Blücher de tyske hærenes hovedstaden til området. Som deres arbeid hadde det ta kongen Som fange og Regjeringen, og slik tvinger vi Norge hurtig kapitulere.
 
 S Muhto riddosuodjalus fuomášii dáid duiska soahtefatnasiid Færder buohta, ja maŋŋil Bolærne buohta. Diehtu amas soahtefatnasiid birra sáddejuvvui Oscarsborg ladnái, man sajádat lei hui vuohkkasit, dakko gokko Oslovuotna lea seakkimus. Go duiska soahtefatnasat jovde Drøbaksundii, gohčui Oscarsborgga kommandánta, oberst Birger Eriksen, fallehit. Moses” ja ”Aron” kanuvnnat deive Blüchera, ja dakka maŋŋil bombejuvvui dát soahtefanas maiddái Nordre Kaholmen torpedovearjjuiguin. Diibmu 06:22 vuojui Blücher, ja eanas oassi soahtefatnasa veagas, mas ledje badjel 1300 olbmá, dušše.
 R De tyske skipene ble oppdaget av kystforsvaret ved Færder og senere ved Bolærne fort. Meldinger om fremmede krigsskip ble sendt til Oscarsborg festning, strategisk plassert der Oslofjorden er på sitt smaleste. Da de tyske skipene kom inn i Drøbaksundet, beordret kommandanten på Oscarsborg, oberst Birger Eriksen, angrep. Blücher ble truffet av skyts fra kanonene ”Moses” og ”Aron”, og senere av torpedoer fra Nordre Kaholmen. Klokken 06:22 sank Blücher, og hoveddelen av mannskapet på over 1300 mann, omkom.
-M Men kystbeskyttelsen oppdaget denne tyske krigen båter overfor Færder, og etterpå *Bolærne overfor. Informasjon om de fremmede krigsbåtene ble Oscarsborg sendt *ladnái, som beliggenheten var svært høvelig, der hvor Oslos fjord det er tynnest. Da de tyske krigsbåtene ankom *Drøbaksundii, bad *Oscarsborgga *kommandánta, *oberst Birger Eriksen, å angripe. Moses og Aron” *kanuvnnat traff *Blüchera, og *dakka etterpå *bombejuvvui denne krigsbåten også Nordre *Kaholmen *torpedovearjjuiguin. En time 0622 sank *Blücher, og #de fleste del @veagas krigsbåten, hvor de var over 1300 mennene, bare.
+M Men kystbeskyttelsen oppdaget denne tyske krigen båter overfor Færder, og etterpå *Bolærne overfor. Informasjon om de fremmede krigsbåtene ble Oscarsborg sendt *ladnái, som beliggenheten var svært høvelig, der hvor Oslo en fjord det er tynnest. Da de tyske krigsbåtene ankom *Drøbaksundii, bad *Oscarsborgga *kommandánta, *oberst Birger Eriksen, å angripe. Moses og Aron” *kanuvnnat traff *Blüchera, og *dakka etterpå *bombejuvvui denne krigsbåten også Nordre *Kaholmen *torpedovearjjuiguin. Timen *06 sank *Blücher, og #de fleste del @veagas krigsbåten, hvor de var over 1300 mennene, bare.
 
 S Blücher vuodjun bissehii gaskaboddosaččat duiska soahteveaga lahkoneami Osloi. Ja de oaččui ge Gonagasbearaš, Ráđđehus ja stuora oassi Stuoradikkis dan áiggi maid dárbbašedje báhtarit sihkarvuhtii.
 R Senkingen av Blücher stanset midlertidig den tyske framrykkingen mot Oslo. Dermed fikk Kongefamilien, Regjeringen og store deler av Stortinget tiden de trengte til å komme seg i sikkerhet.
@@ -2232,7 +1404,7 @@ M Et eksil.
 
 S Dađistaga bođii čielggasin ahte Norga ii sáhttán birget duiska soahtefámu vuostá, ii vel alliánsariikkaid vehkiin ge. Ja go alliánsariikkat mearridedje geassádit, de fertii Gonagas dahkat dan lossa mearrádusa ahte son ieš, ovttas Ruvdnaprinssain Olaviin ja Ráđđehusain fertejedje guođđit riikka. Geassemánu 7. beaivvi guđđe sii Norgga eŋgelas ruossárfatnasiin Devonshire. Norgga eksilráđđehus ásahuvvui Londonis. Lei dehálaš doalahit vuođđolágalaš fámu dakkár eatnamis mii ii lean okkuperejuvvon. Dáppe jođihii ja koordinerii eksilráđđehus norgga vuostálastinbargguid čuovvovaš vihtta jagi.
 R Etter hvert ble det tydelig at Norge, selv med alliert støtte, ikke kunne motstå de tyske troppene. Når de allierte besluttet å trekke seg ut, måtte Kongen fatte den tunge beslutningen om at han, sammen med Kronprins Olav og Regjeringen, måtte forlate landet. 7. juni dro de fra Norge med den engelske krysseren Devonshire. En norsk eksilregjering ble etablert i London. Det var viktig å opprettholde en konstitusjonell makt på ikke-okkupert territorium. Herfra ledet og koordinerte eksilregjeringen norsk motstand de neste fem årene.
-M Etter hvert kom klart at Norge ikke kunne greie seg mot den tyske krigsmakten, han ikke enda *alliánsariikkaid med en hjelp også. Og da *alliánsariikkat bestemte å trekke seg, så måtte Kongen gjøre den tunge bestemmelsen at han selv, sammen med Kronprins Olav og regjeringer måtte de forlate landet. 7. juni forlot de Norge *eŋgelas *ruossárfatnasiin *Devonshire. Norge ble *eksilráđđehus ordnet i London. Det var viktig å holde den grunnlovsmessige makten på slik jord som ikke vært okkupert. Her ledet og koordinerte *eksilráđđehus *norgga protesterende arbeid følgende fem år.
+M Etter hvert kom klart at Norge ikke kunne greie seg mot den tyske krigsmakten, han ikke enda *alliánsariikkaid med en hjelp også. Og da *alliánsariikkat bestemte å trekke seg, så måtte Kongen gjøre den tunge bestemmelsen at han selv, sammen med Kronprins Olavi og regjeringer måtte de forlate landet. 7. juni forlot de Norge *eŋgelas *ruossárfatnasiin *Devonshire. Norge ble *eksilráđđehus ordnet i London. Det var viktig å holde den grunnlovsmessige makten slik jord som ikke vært okkupert. Her ledet og koordinerte *eksilráđđehus *norgga protesterende arbeid følgende fem år.
 
 S Gonagas Haakon šattai dehálaš, čohkkejeaddji symbolan vuostálastinbargguin ja friddja Norgga dovdomearkan. Gonagasa radiosártnit Londonis nanusindahke olbmuid ja nannejedje vuostálastindáhtu.
 R Kong Haakon ble et viktig, samlende symbol for motstandskampen og et fritt Norge. Kongens taler over radio fra London bidro til å holde mot og motstandsvilje oppe.
@@ -2240,7 +1412,7 @@ M Kong Haakon ble viktig, som samlende symbol protesterende på arbeidene og den
 
 S Norggas geahččalii duiska okkupašuvdnafápmu, man jođiheaddji lei Riikakommiseara Josef Terboven, ásahit Riikaráđi. Dan galggai Stuoradiggi válljet ja dat galggai leat okkupašuvdnafámu ovttasbargoásahus. Muhto dán ortnega ásaheapmái lei dat eaktu ahte Gonagas galggai guođđit gonagasfámus. Sártnistis suoidnemánu 8. beaivvi 1940 čilgii Gonagas Haakon mii su mielas lea su geatnegasvuohta Norgga Gonagassan, ja fas biehttalii Gonagas guođđimis doaimmas.
 R I Norge forsøkte den tyske okkupasjonsmakten under ledelse av Rikskommisær Josef Terboven å etablere et Riksråd. Dette skulle velges av Stortinget og være et samarbeidsorgan for okkupantene. Ordningen forutsatte imidlertid at Kongen abdiserte. I sin tale 8. juli 1940 redegjorde Kong Haakon for hva han så som sin plikt som Norges Konge, og nok en gang svarte Kongen nei.
-M i Norge prøvde den tyske okkupasjonsmakten, som den leder var *Riikakommiseara Josef *Terboven, ordne Riikas råd. Han skulle det Stortinget velge og det skulle være okkupasjonsmaktens en samarbeidsordning. Men til dette #skipan ordne var det den betingelsen at Kongen skulle forlate kongemakten. På prekenen 8. juli 1940 han forklarte Kong Haakon som i hans oppfatning er det hans plikt som Norges Konge, og igjen avslo Kongen å forlate oppgaven.
+M i Norge prøvde den tyske okkupasjonsmakten, som den leder var *Riikakommiseara Josef *Terboven, ordne Landrådet. Han skulle det Stortinget velge og det skulle være okkupasjonsmaktens en samarbeidsordning. Men til dette #skipan ordne var det den betingelsen at Kongen skulle forlate kongemakten. På prekenen 8. juli 1940 forklarte Kong Haakon som i hans oppfatning er det hans plikt som Norges Konge, og igjen avslo Kongen å forlate oppgaven.
 
 S Čakčamánu 25. beaivvi loahpahuvvo viimmat buot áigumušat ahte ásahit riikaráđi. Terboven buvttii cealkámuša ahte Gonagas ja Ráđđehus leat biddjojuvvon eret ja ahte buot eará bellodagat go Nasjonal samling ledje lobiheamit. Buot doaibma mii guoskkai Gonagasvissui, gildojuvvui. Gonagas Haakon ja eksilráđđehus vástidedje ahte sii áigo ain joatkit soahtat dassážii Norga šattai fas friddjan.
 R 25. september brøt forsøkene på å etablere et riksråd endelig sammen. Terboven erklærte Konge og Regjering for avsatt og forbød alle andre politiske partier enn Nasjonal samling. All virksomhet til fordel for Kongehuset var nå forbudt. Kong Haakon og eksilregjeringen svarte at de ville fortsette kampen til Norge var fritt.
@@ -2264,5 +1436,5 @@ M *Ruoktotboahtin.
 
 S Duiska kapitulerii miessemánu 8. beaivvi 1945. Miessemánu 13. beaivvi bohte Ruvdnaprinsa Olav ja vihtta stáhtaráđi ruovttoluotta friddja Norgii. Gonagas Haakon, Ruvdnaprinseassa Märtha ja earát bearrasiš bohte geassemánu 7. beaivvi, beaivvát ala vihtta jagi maŋŋá go Gonagas ja Ruvdnaprinsa leigga šaddan guođđit riikka.
 R Tyskland kapitulerte 8. mai 1945. Den 13. mai kom Kronprins Olav og fem statsråder tilbake til et frigjort Norge. Kong Haakon, Kronprinsesse Märtha og resten av familien fulgte etter 7. juni, på dagen fem år etter at Konge og Kronprins hadde måttet forlate landet. 
-M Tyskland kapitulerte 8. mai 1945. 13. mai hevelsens Kronprins Olavs og fem statsråd tilbakeveiens til det frie Norge. Kong Haakon, Kronprinsesse Märtha og #annen *bearrasiš kom 7. juni, på dagen fem etter året da Kongen og kronprinsen hadde blitt forlate landet.
+M Tyskland kapitulerte 8. mai 1945. 13. mai hevelsens Kronprins Olav og fem statsråd tilbakeveiens til det frie Norge. Kong Haakon, Kronprinsesse Märtha og #annen *bearrasiš kom 7. juni, på dagen fem etter året da Kongen og kronprinsen hadde blitt forlate landet.
 
